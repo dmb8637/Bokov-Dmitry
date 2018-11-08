@@ -4,17 +4,15 @@
 <table>
   <tbody>
     <tr>
-      <td rowspan="2"><img src="1_MG_3769.jpg"></td>
+      <td rowspan="3"><img src="1_MG_3769.jpg"></td>
       <td>Дата рождения:</td>
       <td>17 июня 1978 г.</td>
     </tr>
     <tr>
-      <td></td>
       <td>Место проживания:</td>
       <td>г.Ярославль</td>
     </tr>
     <tr>
-      <td></td>
       <td>Семейное положение/дети:</td>
       <td>Не женат/сын 2012 г.р.</td>
     </tr>
