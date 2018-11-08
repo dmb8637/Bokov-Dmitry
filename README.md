@@ -1,8 +1,8 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><img src="1_MG_3769.jpg" align="left" style=" border: 8px solid #ffffff;">
+<p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;">
 <b>Краткая информация:</b>
-	<br>Дата рождения: <div align="right">17 июня 1978 г.</div>
+	<br>Дата рождения:		17 июня 1978 г.
 	<br>Место рождения:		Архангельская область г.Архангельск
 	<br>Семейное положение/дети:	Не женат/сын 2012 г.р.
 	<br>
