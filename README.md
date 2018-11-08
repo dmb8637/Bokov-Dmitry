@@ -1,3 +1,4 @@
+<style>
 a.knopka {
   color: #fff; /* цвет текста */
   text-decoration: none; /* убирать подчёркивание у ссылок */
@@ -8,6 +9,7 @@ a.knopka {
 } 
 a.knopka:hover { background: rgb(232,95,76); } /* при наведении курсора мышки */
 a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
+</style>
 <h1>БОКОВ ДМИТРИЙ</h1>
 <p><img src="1_MG_3769.jpg" align="left" style=" border: 4px solid #ffffff;">
 Дата рождения: 17.06.1978
@@ -18,4 +20,4 @@ a.knopka:active { background: rgb(152,15,0); } /* при нажатии */
 	<br>Адрес места жительства: г. Ярославль
 	<br><a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a>
 </p>
-<p align="center"><a href="anketa_D_A_Bokov.docx" class="knopka">Скачать резюме"</a></p>
+<p align="center"><a href="anketa_D_A_Bokov.docx" class="knopka">Скачать резюме</a></p>
