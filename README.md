@@ -3,8 +3,8 @@
 <p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;">
   <table>
     <col class="column"/>
-    <tr>Дата рождения:</tr>
-    <tr>17 июня 1978 г.</tr>
+    <tr>Дата рождения:      17 июня 1978 г.</tr>
+    <tr>Место проживания:   г.Ярославль</tr>
 </table>
 <br><b>Краткая информация:</b>
 <br><tr>Дата рождения:</tr><td>17 июня 1978 г.</td>
