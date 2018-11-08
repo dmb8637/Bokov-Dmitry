@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <head>
 <title>Анкета-резюме Боков Дмитрий</title>
-  <style>
-	body {
-		background: #000 url(e1025ca953ee.png); /* Фоновый цвет и фоновый рисунок*/
-		color: white; /*Цвет текста на странице*/
-		font-family: "Arial";
-		/*background-attachment: fixed; */
-    		background-size: cover;
-		background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
-	}
-   </style>
 </head>
 <body>
   <h1>БОКОВ
