@@ -8,4 +8,4 @@
 	<br>Адрес места жительства: г. Ярославль
 	<br><a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a>
 </p>
-<p align="center"><a href="anketa_D_A_Bokov.docx" target="_blank"><img alt="Скачать резюме" src="/-VkO3l0waVFg/VJsc1CVz9tI/AAAAAAAAEKA/kkrcMjQwnx4/w168-h29-no/download-y.png"/></a></p>
+<p align="center"><a href="anketa_D_A_Bokov.docx" target="_blank"><img alt="Скачать резюме" src="Html-background-image.jpg"/></a></p>
