@@ -1,4 +1,5 @@
-<h1>БОКОВ
+<body>
+  <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <table>
   <tbody>
@@ -10,3 +11,4 @@
   </tbody>
 </table>
 <p align="left"><a href="anketa_D_A_Bokov.docx"><button>Скачать резюме</button></a></p>
+</body>
