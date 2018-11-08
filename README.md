@@ -3,9 +3,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="CENTER"><img src="1_MG_3769.jpg"></td>
-      <td align="LEFT"><b>Краткая информация:</b><br>Дата рождения:<br>Место проживания:<br>Семейное положение/дети:<br><br><b>Контакты:</b><br>Мобильный телефон:<br>E-mail:<br>ВКонтакте:<br><br></td>
-      <td align="LEFT"><br>17 июня 1978 г.<br>г.Ярославль<br>Не женат/сын 2012 г.р.<br><br><br><strong>+7(962) 206-08-44</strong><br>dmb8637@mail.ru<br><a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a><br><br></td>
+      <td><img src="1_MG_3769.jpg"></td>
+      <td valign="TOP" align="LEFT"><b>Краткая информация:</b><br>Дата рождения:<br>Место проживания:<br>Семейное положение/дети:<br><br><b>Контакты:</b><br>Мобильный телефон:<br>E-mail:<br>ВКонтакте:<br><br></td>
+      <td valign="TOP" align="LEFT"><br>17 июня 1978 г.<br>г.Ярославль<br>Не женат/сын 2012 г.р.<br><br><br><strong>+7(962) 206-08-44</strong><br>dmb8637@mail.ru<br><a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a><br><br></td>
     </tr>
   </tbody>
 </table>
