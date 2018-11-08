@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td rowspan="3"><img src="1_MG_3769.jpg"></td>
-      <td>Дата рождения:</td>
+      <td>Дата <br>рождения:</td>
       <td>17 июня 1978 г.</td>
     </tr>
     <tr>
