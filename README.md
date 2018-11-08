@@ -6,6 +6,6 @@
 	<br>Мобильный телефон: +7(962) 206-08-44
 	<br>E-mail: dmb8637@mail.ru
 	<br>Адрес места жительства: г. Ярославль
-	<br><a HREF="https://vk.com/id32994005">Ссылка на VK</a>
+	<br><a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a>
 </p>
-<p><a HREF="anketa_D_A_Bokov.docx" target="_blank" download="" title="Скачать резюме одним файлом"><button class="btn">Скачать резюме</button></a></p>
+<p><a HREF="anketa_D_A_Bokov.docx" download="" title="Скачать резюме одним файлом"><button class="btn">Скачать резюме</button></a></p>
