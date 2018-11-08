@@ -1,17 +1,20 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;">
+#<p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;">
 <table>
   <tbody>
     <tr>
+      <td><img src="1_MG_3769.jpg"></td>
       <td>Дата рождения:</td>
       <td>17 июня 1978 г.</td>
     </tr>
     <tr>
+      <td></td>
       <td>Место проживания:</td>
       <td>г.Ярославль</td>
     </tr>
     <tr>
+      <td></td>
       <td>Семейное положение/дети:</td>
       <td>Не женат/сын 2012 г.р.</td>
     </tr>
