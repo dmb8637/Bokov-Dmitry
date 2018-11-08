@@ -1,6 +1,5 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<!--><p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;"><-->
 <table>
   <tbody>
     <tr>
