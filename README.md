@@ -1,3 +1,4 @@
+<html>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <img src="1_MG_3769.jpg">
@@ -10,3 +11,4 @@
   </tbody>
 </table>
 <p align="left"><a href="anketa_D_A_Bokov.docx"><button>Скачать резюме</button></a></p>
+</html>
