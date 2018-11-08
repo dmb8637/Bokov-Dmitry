@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<head>
-<title>Анкета-резюме Боков Дмитрий</title>
-</head>
 <body>
   <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
@@ -16,4 +12,3 @@
 </table>
 <p align="left"><a href="anketa_D_A_Bokov.docx"><button>Скачать резюме</button></a></p>
 </body>
-</html>
