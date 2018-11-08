@@ -10,6 +10,6 @@
 <pre>
 Мобильный телефон:	<strong>+7(962) 206-08-44</strong>
 E-mail: 		dmb8637@mail.ru
-<a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a></pre>
+ВКонтакте:  <a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a></pre>
 </p>
 <p align="center"><a href="anketa_D_A_Bokov.docx"><button>Скачать резюме</button></a></p>
