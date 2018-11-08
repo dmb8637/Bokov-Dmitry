@@ -3,9 +3,9 @@
 <p><img src="1_MG_3769.jpg" align="left" style=" border: 6px solid #ffffff;">
   <table>
     <col class="column"/>
-    <tr> 
-        ... 
-    </tr>
+    <tr>1 2 3</tr>
+    <tr>4 5 6</tr>
+    <tr>7 8 9</tr>
 </table>
 <br><b>Краткая информация:</b>
 <br><tr>Дата рождения:</tr><td>17 июня 1978 г.</td>
