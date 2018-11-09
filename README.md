@@ -1,9 +1,8 @@
-<body>
-  <h1>БОКОВ
+<h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<table>
 <p><img src="1_MG_3769.jpg" align="top">
   sdfssdsdgs</p>
+ <table>
   <tbody>
     <tr>
       <td valign="top" align="LEFT"><strong>Краткая информация:</strong><br>Дата рождения:<br>Место проживания:<br>Семейное положение/дети:<br><br><strong>Контакты:</strong><br>Мобильный телефон:<br>E-mail:<br>ВКонтакте:</td>
@@ -12,4 +11,3 @@
   </tbody>
 </table>
 <p align="left"><a href="anketa_D_A_Bokov.docx"><button>Скачать резюме</button></a></p>
-</body>
