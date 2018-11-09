@@ -1,8 +1,7 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <img src="1_MG_3769.jpg">
-
-<br><strong>Краткая информация:</strong>
+<strong>Краткая информация:</strong>
  <ul>
   <li>Дата рождения: 17 июня 1978 г.</li>
   <li>Место проживания: г.Ярославль</li>
@@ -15,7 +14,7 @@
   <li>E-mail: dmb8637@mail.ru</li>
   <li>ВКонтакте: <a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a></li>
  </ul>
-
+<br>
 <p align="left"><a href="anketa_D_A_Bokov.docx" download=""><button>Скачать резюме одним файлом</button></a></p>
 <br>
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
