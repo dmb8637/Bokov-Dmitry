@@ -15,7 +15,7 @@
 <br>
 <strong>Основное образование:</strong>
 <br>
-<TABLE BORDER=5 WIDTH=100% RULES=GROUPS FRAME=HSIDES>
+<TABLE BORDER=5>
 <tbody>
     <tr>
       <th>Год поступления и окончания</th>
