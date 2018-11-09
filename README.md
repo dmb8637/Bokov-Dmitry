@@ -12,6 +12,7 @@
  <br>E-mail: dmb8637@mail.ru
  <br>ВКонтакте: <a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a>
 </p>
+<br>
 <p align="left"><a href="anketa_D_A_Bokov.docx" download=""><button>Скачать резюме одним файлом</button></a></p>
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
