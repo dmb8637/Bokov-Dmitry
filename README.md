@@ -15,7 +15,7 @@
 <br>
 <strong>Основное образование:</strong>
 <br>
-<table>
+<table void>
   <tbody>
     <tr>
       <th>Год поступления и окончания</th>
