@@ -16,10 +16,7 @@
 <strong>Основное образование:</strong>
 <br>
 <TABLE BORDER=5 WIDTH=100% RULES=GROUPS FRAME=HSIDES>
-<COLGROUP ALIGN=CENTER>
-<COLGROUP ALIGN=CENTER>
-<COLGROUP ALIGN=CENTER>
-  <tbody>
+<tbody>
     <tr>
       <th>Год поступления и окончания</th>
       <th>Наименование учебного заведения</th>
