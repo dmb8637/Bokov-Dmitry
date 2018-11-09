@@ -16,7 +16,7 @@
 <strong>Основное образование:</strong>
 <br>
 <table border="1" cellspacing="0"
-cellpadding="8" style="background-color:#111; color:#fff">
+cellpadding="8" style="background-color:#fff; color:#111">
 <tbody>
     <tr>
       <th>Год поступления и окончания</th>
