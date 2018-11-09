@@ -15,7 +15,19 @@
 <br>
 <strong>Основное образование:</strong>
 <br>
-<table>
+<TABLE BORDER=5 WIDTH=100% RULES=GROUPS FRAME=HSIDES>
+
+<COLGROUP ALIGN=CENTER>
+
+<COLGROUP ALIGN=CENTER>
+
+<COLGROUP ALIGN=CENTER>
+
+<CAPTION><H3>
+
+Пример гибкого управления линиями<BR>сетки таблицы</H3>
+
+</CAPTION>
   <tbody>
     <tr>
       <th>Год поступления и окончания</th>
