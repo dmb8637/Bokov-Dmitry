@@ -1,7 +1,6 @@
 <body>
   <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<img src="1_MG_3769.jpg">
 <table>
   <tbody>
     <tr>
