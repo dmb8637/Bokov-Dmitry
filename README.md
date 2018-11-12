@@ -10,6 +10,7 @@
  <br><strong>Контакты:</strong>
  <br>Мобильный телефон: <strong>+7(962) 206-08-44</strong>
  <br>E-mail: dmb8637@mail.ru
+ <br>Сайт: https://dmb8637.github.io/Bokov-Dmitry
  <br>ВКонтакте: <a HREF="https://vk.com/id32994005" target="_blank">Ссылка на VK</a>
 </p>
 <!--***********************************************************-->
