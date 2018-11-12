@@ -14,7 +14,6 @@
  <br>В социальных сетях: <a HREF="https://vk.com/id32994005" target="_blank">ВКонтакте</a>
 </p>
 <!--***********************************************************-->
-<br>
 <p align="left"><a href="anketa_D_A_Bokov.docx" download=""><button>Скачать резюме одним файлом</button></a></p>
 <p align="left"><a href="документы об образовании-rotated-pages-deleted.pdf" download=""><button>Скачать документы об образовании</button></a></p>
 <!--***********************************************************-->
