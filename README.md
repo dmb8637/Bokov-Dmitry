@@ -15,7 +15,7 @@
 </p>
 <!--***********************************************************-->
 <p align="left"><a href="документы об образовании-rotated-pages-deleted.pdf" download=""><button>Скачать документы об образовании</button></a></p>
-<p align="left"><a href="anketa_D_A_Bokov.docx" download=""><button>Скачать резюме одним файлом</button></a></p>
+<p align="left"><a href="anketa_D_A_Bokov.pdf" download=""><button>Скачать резюме одним файлом</button></a></p>
 <!--***********************************************************-->
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
