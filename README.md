@@ -8,7 +8,7 @@
  <br>Образование: высшее
  <br>
  <br><strong>Контакты:</strong>
- <br>Мобильный телефон: <strong>+7(962) 206-08-44</strong>
+ <br>Мобильный телефон: <strong>+7(962) 206-08-44</strong>; +7(910)960-16-96  
  <br>E-mail: dmb8637@mail.ru
  <br>В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry" target="_blank">Сайт</a>
  <br>В социальных сетях: <a HREF="https://vk.com/id32994005" target="_blank">ВКонтакте</a>
