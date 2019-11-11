@@ -11,7 +11,7 @@
  <br><strong>Контакты:</strong>
  <br>Телефон: <strong>+7(962) 206-08-44; +7(910) 960-16-96</strong>
  <br>E-mail: dmb8637@mail.ru
- <br>В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry" target="_blank">Сайт</a><img src="VK-Icon_icon-icons.com_52860.png">
+ <br><img src="VK-Icon_icon-icons.com_52860.png"  width="5" height="5"> В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry" target="_blank">Сайт</a>
  <br>В социальных сетях: <a HREF="https://vk.com/id32994005" target="_blank">ВКонтакте</a>
 </p>
 <!--***********************************************************-->
