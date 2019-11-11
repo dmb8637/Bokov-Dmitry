@@ -14,8 +14,8 @@
  <br><img src="VK-Icon_icon-icons.com_52860.png" width="25" height="25"> В социальных сетях: <a HREF="https://vk.com/id32994005" target="_blank">ВКонтакте</a>
 </p>
 <!--***********************************************************-->
-<p align="left"><img src="file_pdf_download_icon-icons.com_68954.png" width="25" height="25"> <a href=" документы об образовании-rotated-pages-deleted.pdf" download=""><button>Скачать документы об образовании</button></a></p>
-<p align="left"><img src="file_pdf_download_icon-icons.com_68954.png" width="25" height="25"><a href=" anketa_D_A_Bokov.pdf" download=""><button>Скачать резюме одним файлом</button></a></p>
+<p align="left"><img src="file_pdf_download_icon-icons.com_68954.png" width="25" height="25"> <a href="документы об образовании-rotated-pages-deleted.pdf" download=""><button> Скачать документы об образовании</button></a></p>
+<p align="left"><img src="file_pdf_download_icon-icons.com_68954.png" width="25" height="25"><a href=" anketa_D_A_Bokov.pdf" download=""><button> Скачать резюме одним файлом</button></a></p>
 <!--***********************************************************-->
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
