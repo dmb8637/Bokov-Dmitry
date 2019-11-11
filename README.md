@@ -1,13 +1,3 @@
-<head>
-<script language = "JavaScript">
-var bigsize = "300"; //Размер большой картинки
-var smallsize = "150"; //Размер маленькой картинки
-function changeSizeImage(im) {
-  if(im.height == bigsize) im.height = smallsize;
-  else im.height = bigsize;
-}
-</script> 
- </head>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 04-09-2019</small></p>
@@ -69,21 +59,7 @@ function changeSizeImage(im) {
   <li>Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических инструментов (OLAP-КУБ, QlikView);</li>
   <li>Работа с нейросетями, распознавание образов и текста, машинное обучение; </li>
   <li>Роботизация бизнес-процессов (RPA Blue Prizm);
-   <table align="center">
-   <tr>
-     <td align="center">
-       <img src="ertRPA_BokovDA.png" height="150" onclick="changeSizeImage(this)" />
-       <br />
-       <b>Фото 1</b>
-     </td>
-     <td align="center">
-       <img src="ertRPA_BokovDA.png" height="150" onclick="changeSizeImage(this)" />
-       <br />
-       <b>Фото 2</b>
-     </td>
-   </tr>
- </table>
-  </li>
+  <br><img src="ertRPA_BokovDA.png" width="200" height="150"></li>
   <li>Администрирование программного обеспечения розничного блока (АС Филиал, АС Филиал-сбербанк, RS-Retail, АС ЦОД), информационно-платежными терминалами (ProSet), банковскими картами (POS-терминалы);</li>
   <li>Семинары по технике продаж, комплекс тренингов “Мастерская бизнес-коммуникаций”, “Навыки личной эффективности”, участие в управленческих поединках и т.д.);</li>
   <li>Участие в проекте ПАО Сбербанк “Витрины устройств самообслуживания”, непосредственное участие в разработке (кластерный анализ) в сентябре 2017 года.</li>
