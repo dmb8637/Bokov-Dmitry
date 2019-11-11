@@ -7,8 +7,7 @@
  <br>Место проживания: г.Москва
  <br>Семейное положение/дети: Не женат/сын 2012 г.р.
  <br>Образование: высшее
- <br>
- <br><strong>Контакты:</strong>
+ <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong> Контакты:</strong>
  <br><img src="Phone_31105.png" width="25" height="25"> Телефон: <strong>+7(962) 206-08-44; +7(910) 960-16-96</strong>
  <br><img src="anewe-mail_mail_message_7036.png" width="25" height="25"> E-mail: dmb8637@mail.ru
  <br><img src="metro_internetexplorer_11335.png" width="25" height="25"> В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry" target="_blank">Сайт</a>
