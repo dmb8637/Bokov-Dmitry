@@ -27,7 +27,7 @@
        <li>Год поступления и окончания: 1995-2000</li>
        <li>Квалификация: Инженер-механик (диплом с отличием)</li>
        <li>Специальность: Машины и оборудование лесного комплекса
-       <br><img src="diplom1_edu.jpg" width="355" height="250"></li>
+       <br><img src="diplom1_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;"></li>
      </ul>    
    </li>
   <li><i>Экономический факультет, очно-заочная форма</i>
@@ -35,7 +35,7 @@
      <li>Год поступления и окончания: 1998-2001</li>
      <li>Квалификация: Экономист</li>
      <li>Специальность: Финансы и кредит (специализация «Банковское дело»)
-     <br><img src="diplom2_edu.jpg" width="355" height="250"></li>
+     <br><img src="diplom2_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;"></li>
    </ul>    
   </li>
   <li><i>Военная кафедра, очная форма</i>
@@ -60,7 +60,7 @@
   <li>Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических инструментов (OLAP-КУБ, QlikView);</li>
   <li>Работа с нейросетями, распознавание образов и текста, машинное обучение; </li>
   <li>Роботизация бизнес-процессов (RPA Blue Prizm);
-  <br><img src="sertRPA_BokovDA.png" width="355" height="250"></li>
+  <br><img src="sertRPA_BokovDA.png" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;"></li>
   <li>Администрирование программного обеспечения розничного блока (АС Филиал, АС Филиал-сбербанк, RS-Retail, АС ЦОД), информационно-платежными терминалами (ProSet), банковскими картами (POS-терминалы);</li>
   <li>Семинары по технике продаж, комплекс тренингов “Мастерская бизнес-коммуникаций”, “Навыки личной эффективности”, участие в управленческих поединках и т.д.);</li>
   <li>Участие в проекте ПАО Сбербанк “Витрины устройств самообслуживания”, непосредственное участие в разработке (кластерный анализ) в сентябре 2017 года.</li>
@@ -113,17 +113,17 @@
 <br>Наименование программы, курсов: Oracle Database 10g: SQL Fundamentals I и II
 <br>Период обучения: 2008
 <br>Организатор: КАМИ учебный центр
-<br><img src="oracleDB_edu.jpg" width="355" height="250">
+<br><img src="oracleDB_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;">
 <br>
 <br>Наименование программы, курсов: ISO20000 – Implementation (стандарт процессов управления услугами ИТ)
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="iso2000_edu.jpg" width="250" height="350">
+<br><img src="iso2000_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;">
 <br>
 <br>Наименование программы, курсов: Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="ITIL_edu.jpg" width="250" height="350">
+<br><img src="ITIL_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;"
 <br>
 <br>Наименование программы, курсов: тренинг “Мастерская бизнес-коммуникаций”
 <br>Период обучения: 2018
