@@ -1,6 +1,6 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><small>обновлено 12-11-2019 14:06</small></p>
+<p><small>обновлено 12-11-2019 14:49</small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
@@ -27,7 +27,7 @@
        <li>Год поступления и окончания: 1995-2000</li>
        <li>Квалификация: Инженер-механик (диплом с отличием)</li>
        <li>Специальность: Машины и оборудование лесного комплекса
-       <br><img src="diplom1_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;"></li>
+       <br><img src="diplom1_edu.jpg" width="355" height="250"></li>
      </ul>    
    </li>
   <li><i>Экономический факультет, очно-заочная форма</i>
@@ -35,7 +35,7 @@
      <li>Год поступления и окончания: 1998-2001</li>
      <li>Квалификация: Экономист</li>
      <li>Специальность: Финансы и кредит (специализация «Банковское дело»)
-     <br><img src="diplom2_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;"></li>
+     <br><img src="diplom2_edu.jpg" width="355" height="250"></li>
    </ul>    
   </li>
   <li><i>Военная кафедра, очная форма</i>
@@ -113,17 +113,17 @@
 <br>Наименование программы, курсов: Oracle Database 10g: SQL Fundamentals I и II
 <br>Период обучения: 2008
 <br>Организатор: КАМИ учебный центр
-<br><img src="oracleDB_edu.jpg" width="355" height="250" valign="top" align="left" style="border: 10px solid transparent;">
+<br><img src="oracleDB_edu.jpg" width="355" height="250">
 <br>
 <br>Наименование программы, курсов: ISO20000 – Implementation (стандарт процессов управления услугами ИТ)
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="iso2000_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;">
+<br><img src="iso2000_edu.jpg" width="250" height="350">
 <br>
 <br>Наименование программы, курсов: Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="ITIL_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;">
+<br><img src="ITIL_edu.jpg" width="250" height="350">
 <br>
 <br>Наименование программы, курсов: тренинг “Мастерская бизнес-коммуникаций”
 <br>Период обучения: 2018
