@@ -123,7 +123,7 @@
 <br>Наименование программы, курсов: Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="ITIL_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;"
+<br><img src="ITIL_edu.jpg" width="250" height="350" valign="top" align="left" style="border: 10px solid transparent;">
 <br>
 <br>Наименование программы, курсов: тренинг “Мастерская бизнес-коммуникаций”
 <br>Период обучения: 2018
