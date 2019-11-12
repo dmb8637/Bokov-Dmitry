@@ -113,12 +113,12 @@
 <br>Наименование программы, курсов: ISO20000 – Implementation (стандарт процессов управления услугами ИТ)
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="iso2000_edu.jpg" width="177" height="250">
+<br><img src="iso2000_edu.jpg" width="250" height="350">
 <br>
 <br>Наименование программы, курсов: Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="ITIL_edu.jpg" width="177" height="250">
+<br><img src="ITIL_edu.jpg" width="250" height="350">
 <br>
 <br>Наименование программы, курсов: тренинг “Мастерская бизнес-коммуникаций”
 <br>Период обучения: 2018
