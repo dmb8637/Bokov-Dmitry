@@ -9,13 +9,13 @@
  <br>Образование: высшее
  <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong> Контакты:</strong>
  <br><img src="Phone_31105.png" width="25" height="25"> Телефон: <strong>+7(962) 206-08-44; +7(910) 960-16-96</strong>
- <br><img src="anewe-mail_mail_message_7036.png" width="25" height="25"> E-mail: dmb8637@mail.ru
+ <br><img src="anewe-mail_mail_message_7036.png" width="25" height="25"> E-mail: <strong>dmb8637@mail.ru</strong>
  <br><img src="metro_internetexplorer_11335.png" width="25" height="25"> В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry" target="_blank">Сайт</a>
  <br><img src="VK-Icon_icon-icons.com_52860.png" width="25" height="25"> В социальных сетях: <a HREF="https://vk.com/id32994005" target="_blank">ВКонтакте</a>
 </p>
 <!--***********************************************************-->
-<p align="left"><a href="документы об образовании-rotated-pages-deleted.pdf" download=""><img src="1490129349-rounded05_82190.png" width="25" height="25"> Скачать документы об образовании</a></p>
-<p align="left"><a href="anketa_D_A_Bokov.pdf" download=""><img src="1490129349-rounded05_82190.png" width="25" height="25"> Скачать резюме одним файлом</a></p>
+<p align="left"><a href="документы об образовании-rotated-pages-deleted.pdf" download=""><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать документы об образовании</a></p>
+<p align="left"><a href="anketa_D_A_Bokov.pdf" download=""><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать резюме одним файлом</a></p>
 <!--***********************************************************-->
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
