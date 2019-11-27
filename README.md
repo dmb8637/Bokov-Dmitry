@@ -1,4 +1,3 @@
-<body><background url = "'../img/7c13688adb0a4db2319c905c8c9c0293.jpeg');"></body>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 26-11-2019 18:44</small></p>
