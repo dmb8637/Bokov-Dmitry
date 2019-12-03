@@ -35,8 +35,8 @@
    <ul>    
      <li>Год поступления и окончания: 1998-2001</li>
      <li>Квалификация: Экономист</li>
-     <li>Специальность: Финансы и кредит (специализация «Банковское дело»)
-         <img src="diplom2_edu.jpg" width="355" height="250" style="border: 10px solid transparent;"></li>
+     <li><p>Специальность: Финансы и кредит (специализация «Банковское дело»)
+         <img src="diplom2_edu.jpg" width="355" height="250" style="border: 10px solid transparent;"></p></li>
    </ul>    
   </li>
   <li><i>Военная кафедра, очная форма</i>
