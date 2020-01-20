@@ -1,7 +1,7 @@
 <head><link rel = "stylesheet" href = "../css/style.css"></head>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><small>обновлено 03-12-2019 15:44</small></p>
+<p><small>обновлено 20-01-2020 13:14</small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
