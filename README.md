@@ -15,8 +15,12 @@
  <br><img src="VK-Icon_icon-icons.com_52860.png" width="25" height="25"> В социальных сетях: <a HREF="https://vk.com/id32994005">ВКонтакте</a>
 </p>
 <!--***********************************************************-->
-<p align="left"><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать документы об образовании</a></p>
-<p align="left"><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать резюме одним файлом</a></p>
+<table>
+  <tr>
+    <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать документы об образовании</a></td>
+    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="30" height="30"> Скачать резюме одним файлом</a></td>    
+  </tr>
+</table>
 <!--***********************************************************-->
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
