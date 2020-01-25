@@ -1,4 +1,4 @@
-<head><link rel = "stylesheet" href = "../css/style1.css"></head>
+<head><link rel = "stylesheet" href = "../css/style22.css"></head>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 20-01-2020 13:14</small></p>
