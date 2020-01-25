@@ -1,4 +1,5 @@
 <head><link rel = "stylesheet" href = "../css/style.css"></head>
+<script>alert('ok!');</script>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 20-01-2020 13:14</small></p>
