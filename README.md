@@ -1,7 +1,7 @@
 <head><link rel = "stylesheet" href = "../css/style.css"></head>
 <script language = "JavaScript">
-var bigsize = "300";
-var smallsize = "150";
+var bigsize = "500";
+var smallsize = "140";
 function changeSizeImage(im) {
   if(im.height == bigsize) im.height = smallsize;
   else im.height = bigsize;
@@ -10,7 +10,7 @@ function changeSizeImage(im) {
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 20-01-2020 13:14</small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="150" onclick="changeSizeImage(this)">
+<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="changeSizeImage(this)">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
  <br>Место проживания: г.Москва
