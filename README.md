@@ -40,7 +40,7 @@ function changeSizeImage(im) {
        <li>Год поступления и окончания: 1995-2000</li>
        <li>Квалификация: Инженер-механик (диплом с отличием)</li>
        <li>Специальность: Машины и оборудование лесного комплекса
-       <br><img src="diplom1_edu.jpg" width="355" height="250"></li>
+       <br><img src="diplom1_edu.jpg" height="140"></li>
      </ul>    
    </li>
   <li><i>Экономический факультет, очно-заочная форма</i>
@@ -48,7 +48,7 @@ function changeSizeImage(im) {
      <li>Год поступления и окончания: 1998-2001</li>
      <li>Квалификация: Экономист</li>
      <li>Специальность: Финансы и кредит (специализация «Банковское дело»)
-     <br><img src="diplom2_edu.jpg" width="355" height="250"></li>
+     <br><img src="diplom2_edu.jpg" height="140"></li>
    </ul>    
   </li>
   <li><i>Военная кафедра, очная форма</i>
