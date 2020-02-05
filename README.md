@@ -7,6 +7,7 @@ function changeSizeImage(im) {
     else im.height = bigsize;
   }
 function lastTimeMod() {
+    alert(1);
     return document.lastModified;
   }  
 </script>
