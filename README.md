@@ -15,8 +15,8 @@
     
     function openImg(src) {
        var image = new Image();
-        image.src = src;
-        var width = image.widwindow.open(src,"Image");
+       image.src = src;
+       window.open(src,"Image");
     }
     
 </script>
