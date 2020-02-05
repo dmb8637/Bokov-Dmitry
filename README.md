@@ -8,7 +8,7 @@ function changeSizeImage(im) {
   }
 window.onload = function() {
     var item = document.querySelector(".item");
-    item.innerHTML = "Обновлено" + document.lastModified; 
+    item.innerHTML = "Обновлено " + document.lastModified; 
   }  
 </script>
 <p><a name="maininfo"></a></p>
