@@ -5,7 +5,10 @@ var smallsize = "140";
 function changeSizeImage(im) {
   if(im.height == bigsize) im.height = smallsize;
   else im.height = bigsize;
-}
+  }
+function lastTimeMod() {
+   return document.lastModified;
+  }  
 </script>
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
