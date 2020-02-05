@@ -11,7 +11,7 @@ function changeSizeImage(im) {
 <br>Дмитрий Алексеевич</h1>
 <p><small>обновлено 04-02-2020 12:27</small></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" target="blanck">
+<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" target="blank">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
  <br>Место проживания: г.Москва
