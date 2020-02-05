@@ -18,7 +18,6 @@
        image.src = src;
        window.open(src,"Image");
     }
-    
 </script>
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
