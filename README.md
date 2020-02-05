@@ -1,4 +1,4 @@
-<head><link rel = "stylesheet" href = "../css/styles.css"></head>
+<head></head>
 <script language = "JavaScript">
 var bigsize = "500";
 var smallsize = "140";
