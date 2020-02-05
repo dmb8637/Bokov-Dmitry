@@ -3,17 +3,17 @@
 var bigsize = "500";
 var smallsize = "140";
 function changeSizeImage(im) {
-  if(im.height == bigsize) im.height = smallsize;
-  else im.height = bigsize;
+    if(im.height == bigsize) im.height = smallsize;
+    else im.height = bigsize;
   }
 function lastTimeMod() {
-   return document.lastModified;
+    return document.lastModified;
   }  
 </script>
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><small>обновлено 04-02-2020 12:47</small></p>
+<p><small onload="lastTimeMod();">обновлено 04-02-2020 12:47</small></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="changeSizeImage(this)">
 <strong>Краткая информация:</strong>
