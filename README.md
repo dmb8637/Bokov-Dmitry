@@ -1,22 +1,28 @@
 <head><link rel = "stylesheet" href = "css/styles.css"></head>
 <script language = "JavaScript">
-var bigsize = "500";
-var smallsize = "140";
-function changeSizeImage(im) {
-    if(im.height == bigsize) im.height = smallsize;
-    else im.height = bigsize;
-  }
-window.onload = function() {
-    var item = document.querySelector(".item");
-    item.innerHTML = "Обновлено " + document.lastModified; 
-  }  
+
+    function changeSizeImage(im) {
+        var bigsize = "500";
+        var smallsize = "140";
+        if(im.height == bigsize) im.height = smallsize;
+            else im.height = bigsize;
+    }
+    window.onload = function() {
+        var item = document.querySelector(".item");
+        item.innerHTML = "Обновлено " + document.lastModified; 
+    }
+    function openImg(src) {
+       var image = new Image();
+        image.src = src;
+        var width = image.widwindow.open(src,"Image");
+    }
 </script>
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="changeSizeImage(this)">
+<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="openImg(this)">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
  <br>Место проживания: г.Москва
