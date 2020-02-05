@@ -174,44 +174,65 @@
 <br><img src="oracleDB_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
 <br>
 <table>
-<tr>Наименование программы, курсов:
-    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
-    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
-    <td>тренинг “Мастерская бизнес-коммуникаций”</td>
-    <td>тренинг “Навыки личной эффективности”</td>
-    <td>Семинар по технике продаж</td>
-    <td>Семинар “Блокчейн”</td>
-    <td>Семинар “BIG DATA, машинное обучение”</td>
-    <td>Тренинги Р.Гандапаса, тема - “Лидерство”</td>
-    <td>Создание, сопровождения сайтов</td>
-    </tr>
-<tr>Период обучения:
-    <td>2008</td>
-    <td>2008</td>
-    <td>2018</td>
-    <td>2017</td>
-    <td>2018</td>
-    <td>2018</td>
-    <td>2018</td>
-    <td>2018</td>
-    <td>2018</td>
-</tr> 
-<tr>Организатор:
-    <td>British Standards Institution</td>
-    <td>British Standards Institution</td>
-    <td>ПАО Сбербанк</td>
-    <td>ПАО Сбербанк</td>
-    <td>ПАО Сбербанк</td>
-    <td>ПАО Сбербанк</td>
-    <td>ПАО Сбербанк</td>
-    <td>самостоятельно</td>
-    <td>самостоятельно</td>
+<tr>
+    <td>Наименование программы, курсов:</td>
+    <td>Период обучения:</td>
+    <td>Организатор:</td>
+    <td>Сертификат:</td>
 </tr>
-<tr>Сертификат:
-    <td><img src="iso2000_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
-    </td>
-    <td><img src="ITIL_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
-    </td>    
+<tr>    
+    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
+    <td>2008</td>
+    <td></td>
+    <td><img src="iso2000_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+</tr>    
+<tr>
+    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
+    <td>2008</td>
+    <td>British Standards Institution</td>
+    <td><img src="ITIL_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+</tr>
+<tr>
+    <td>тренинг “Мастерская бизнес-коммуникаций”</td>
+    <td>2018</td>
+    <td>ПАО Сбербанк</td>
+    <td></td>
+</tr>
+<tr>
+    <td>тренинг “Навыки личной эффективности”</td>
+    <td>2017</td>
+    <td>ПАО Сбербанк</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Семинар по технике продаж</td>
+    <td>2018</td>
+    <td>ПАО Сбербанк</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Семинар “Блокчейн”</td>
+    <td>2018</td>
+    <td>ПАО Сбербанк</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Семинар “BIG DATA, машинное обучение”</td>
+    <td>2018</td>
+    <td>ПАО Сбербанк</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Тренинги Р.Гандапаса, тема - “Лидерство”</td>
+    <td>2018</td>
+    <td>самостоятельно</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Создание, сопровождения сайтов</td>
+    <td>2018</td>
+    <td>самостоятельно</td>
+    <td></td>
 </tr>
 </table>    
 
