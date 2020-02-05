@@ -14,6 +14,7 @@ function lastTimeMod() {
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
+<body><script language = "JavaScript" "alert(1);"</script></body>
 <p><small window.onload="lastTimeMod();">обновлено 04-02-2020 19:47</small></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="changeSizeImage(this)">
