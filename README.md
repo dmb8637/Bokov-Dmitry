@@ -28,7 +28,7 @@ function changeSizeImage(im) {
 <table>
   <tr>
     <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="30" height="30"> документы об образовании</a></td>
-    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="30" height="30"> резюме одним файлом</a></td>    
+    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="30" height="30"> резюме одним файлом</a></td>
   </tr>
 </table>
 <!--***********************************************************-->
