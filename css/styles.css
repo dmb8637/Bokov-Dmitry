@@ -11,7 +11,7 @@
  /***** STRUCTURE *****/
  
  body { 
-	background-image: url('../img/bg1.png');
+	background-image: url('img/bg1.png');
 	}
 	
 h1, h2, h3, h4, h5, h6 {
@@ -106,7 +106,7 @@ h2 {
 }
 
 #features li {
-	background: url('../img/check.png') no-repeat left;
+	background: url('img/check.png') no-repeat left;
 	list-style: none;
 	padding-left: 25px;
 	margin-left: -23px;
