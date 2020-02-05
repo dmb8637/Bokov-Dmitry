@@ -61,12 +61,12 @@
 <br>
 <table>
     <tr>
-        <td>Факультет:</td>
-        <td>Форма обучения:</td>
-        <td>Год поступления и окончания:</td>
-        <td>Квалификация(Воинское звание):</td>
-        <td>Специальность:</td>
-        <td>Диплом:</td>
+        <td><strong>Факультет:</strong></td>
+        <td><strong>Форма обучения:</strong></td>
+        <td><strong>Год поступления и окончания:</strong></td>
+        <td><strong>Квалификация(Воинское звание):</strong></td>
+        <td><strong>Специальность:</strong></td>
+        <td><strong>Диплом:</strong></td>
     </tr>
     <tr>
         <td>Механический</td>
@@ -119,10 +119,10 @@
 <br>
 <table>
     <tr>
-        <td>Организация:</td>
-        <td>Начало и окончание:</td>
-        <td>Должность:</td>
-        <td>Кратко задачи:</td>
+        <td><strong>Организация:</strong></td>
+        <td><strong>Начало и окончание:</strong></td>
+        <td><strong>Должность:</strong></td>
+        <td><strong>Кратко задачи:</strong></td>
     </tr>    
     <tr>
         <td>ПАО Сбербанк г. Москва</td>
@@ -179,10 +179,10 @@
 <br>
 <table>
 <tr>
-    <td>Наименование программы, курсов:</td>
-    <td>Период обучения:</td>
-    <td>Организатор:</td>
-    <td>Сертификат:</td>
+    <td><strong>Наименование программы, курсов:</strong></td>
+    <td><strong>Период обучения:</strong></td>
+    <td><strong>Организатор:</strong></td>
+    <td><strong>Сертификат:</strong></td>
 </tr>
 <tr>
     <td>Oracle Database 10g: SQL Fundamentals I и II</td>
