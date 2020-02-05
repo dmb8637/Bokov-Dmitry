@@ -61,12 +61,12 @@
 <br>
 <table>
     <tr>
-        <td><strong>Факультет</strong></td>
-        <td><strong>Форма обучения</strong></td>
-        <td><strong>Год поступления и окончания</strong></td>
-        <td><strong>Квалификация(Воинское звание)</strong></td>
-        <td><strong>Специальность</strong></td>
-        <td><strong>Диплом</strong></td>
+        <td align="center"><strong>Факультет</strong></td>
+        <td align="center"><strong>Форма обучения</strong></td>
+        <td align="center"><strong>Год поступления и окончания</strong></td>
+        <td align="center"><strong>Квалификация(Воинское звание)</strong></td>
+        <td align="center"><strong>Специальность</strong></td>
+        <td align="center"><strong>Диплом</strong></td>
     </tr>
     <tr>
         <td>Механический</td>
@@ -74,7 +74,7 @@
         <td>1995-2000</td>
         <td>Инженер-механик (диплом с отличием)</td>
         <td>Машины и оборудование лесного комплекса</td>
-        <td><img src="diplom1_edu.jpg" height="100" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom1_edu.jpg" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Экономический</td>
@@ -82,7 +82,7 @@
         <td>1998-2001</td>
         <td>Экономист</td>
         <td>Финансы и кредит (специализация «Банковское дело»)</td>
-        <td><img src="diplom2_edu.jpg" height="100" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom2_edu.jpg" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Военная кафедра</td>
@@ -119,10 +119,10 @@
 <br>
 <table>
     <tr>
-        <td><strong>Организация</strong></td>
-        <td><strong>Начало и окончание</strong></td>
-        <td><strong>Должность</strong></td>
-        <td><strong>Кратко задачи</strong></td>
+        <td align="center"><strong>Организация</strong></td>
+        <td align="center"><strong>Начало и окончание</strong></td>
+        <td align="center"><strong>Должность</strong></td>
+        <td align="center"><strong>Кратко задачи</strong></td>
     </tr>    
     <tr>
         <td>ПАО Сбербанк г. Москва</td>
@@ -179,10 +179,10 @@
 <br>
 <table>
 <tr>
-    <td><strong>Наименование программы, курсов</strong></td>
-    <td><strong>Период обучения</strong></td>
-    <td><strong>Организатор</strong></td>
-    <td><strong>Сертификат</strong></td>
+    <td align="center"><strong>Наименование программы, курсов</strong></td>
+    <td align="center"><strong>Период обучения</strong></td>
+    <td align="center"><strong>Организатор</strong></td>
+    <td align="center"><strong>Сертификат</strong></td>
 </tr>
 <tr>
     <td>Oracle Database 10g: SQL Fundamentals I и II</td>
