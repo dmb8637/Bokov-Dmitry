@@ -99,7 +99,7 @@
   <li>Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических инструментов (OLAP-КУБ, QlikView);</li>
   <li>Работа с нейросетями, распознавание образов и текста, машинное обучение; </li>
   <li>Роботизация бизнес-процессов (RPA Blue Prizm);
-  <br><img src="sertRPA_BokovDA.png" height="140" valign="top" align="left" style="border: 10px solid transparent;"  onclick="changeSizeImage(this)"></li>
+  <br><img src="sertRPA_BokovDA.png" height="140" valign="top" align="left" style="border: 10px solid transparent;"  onclick="openImg(this.src)"></li>
   <li>Администрирование программного обеспечения розничного блока (АС Филиал, АС Филиал-сбербанк, RS-Retail, АС ЦОД), информационно-платежными терминалами (ProSet), банковскими картами (POS-терминалы);</li>
   <li>Семинары по технике продаж, комплекс тренингов “Мастерская бизнес-коммуникаций”, “Навыки личной эффективности”, участие в управленческих поединках и т.д.);</li>
   <li>Участие в проекте ПАО Сбербанк “Витрины устройств самообслуживания”, непосредственное участие в разработке (кластерный анализ) в сентябре 2017 года.</li>
@@ -154,7 +154,7 @@
 <br>Наименование программы, курсов: Oracle Database 10g: SQL Fundamentals I и II
 <br>Период обучения: 2008
 <br>Организатор: КАМИ учебный центр
-<br><img src="oracleDB_edu.jpg" height="50" onclick="openImg(this.src)">
+<br><img src="oracleDB_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
 <br>
 <br>Наименование программы, курсов: ISO20000 – Implementation (стандарт процессов управления услугами ИТ)
 <br>Период обучения: 2008
