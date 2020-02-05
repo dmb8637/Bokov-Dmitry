@@ -58,50 +58,40 @@
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
 <b><strong>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</strong></b>
-<ul>
-<li><i>Механический факультет, очная форма</i>
-  <table>
-      <tr>
-        <td>
-          <ul>    
-            <li>Год поступления и окончания: 1995-2000</li>
-            <li>Квалификация: Инженер-механик (диплом с отличием)</li>
-            <li>Специальность: Машины и оборудование лесного комплекса</li>
-          </ul>    
-      </td>
-      <td>
-          <img src="diplom1_edu.jpg" height="140" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
-      </td>
-     </tr>
-  </table>          
-</li>
-
- <li><i>Экономический факультет, очно-заочная форма</i>
-  <table>
-      <tr>
-        <td>
-          <ul>    
-            <li>Год поступления и окончания: 1998-2001</li>
-            <li>Квалификация: Экономист</li>
-            <li>Специальность: Финансы и кредит (специализация «Банковское дело»)</li>
-          </ul>    
-      </td>
-      <td>
-          <img src="diplom2_edu.jpg" height="140" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
-      </td>
-     </tr>
-  </table> 
-</li>
-
-<li><i>Военная кафедра, очная форма</i>
-   <ul>    
-     <li>Год поступления и окончания: 1998-2000</li>
-     <li>Воинское звание: Лейтенант запаса (военный билет)</li>
-     <li>Специальность: ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</li>
-   </ul>    
-</li>
-
-</ul>
+<table>
+    <tr>
+        <td>Факультет:</td>
+        <td>Форма обучения:</td>
+        <td>Год поступления и окончания:</td>
+        <td>Квалификация(Воинское звание):/td>
+        <td>Специальность:</td>
+        <td>Диплом:</td>
+    </tr>
+    <tr>
+        <td>Механический</td>
+        <td>очная</td>
+        <td>1995-2000</td>
+        <td>Инженер-механик (диплом с отличием)</td>
+        <td>Машины и оборудование лесного комплекса</td>
+        <td><img src="diplom1_edu.jpg" height="140" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+    </tr>    
+    <tr>
+        <td>Экономический</td>
+        <td>очно-заочная</td>
+        <td>1998-2001</td>
+        <td>Экономист</td>
+        <td>Финансы и кредит (специализация «Банковское дело»)</td>
+        <td><img src="diplom2_edu.jpg" height="140" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+    </tr>    
+    <tr>
+        <td>Военная кафедра</td>
+        <td>очная</td>
+        <td>1998-2000</td>
+        <td>Лейтенант запаса (военный билет)</td>
+        <td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td>
+        <td></td>
+    </tr>    
+</table>
 
 <p><a name="inolang"></a></p>
 <br><strong>Уровень владения иностранным языком</strong>
@@ -168,17 +158,18 @@
 <p><a name="dopedu"></a></p>
 <br><strong>Дополнительное образование, курсы повышения квалификации, семинары, тренинги</strong>
 <br>
-<br>Наименование программы, курсов: Oracle Database 10g: SQL Fundamentals I и II
-<br>Период обучения: 2008
-<br>Организатор: КАМИ учебный центр
-<br><img src="oracleDB_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
-<br>
 <table>
 <tr>
     <td>Наименование программы, курсов:</td>
     <td>Период обучения:</td>
     <td>Организатор:</td>
     <td>Сертификат:</td>
+</tr>
+<tr>
+    <td>Oracle Database 10g: SQL Fundamentals I и II</td>
+    <td>2008</td>
+    <td>КАМИ учебный центр</td>
+    <td><img src="oracleDB_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
 </tr>
 <tr>    
     <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
