@@ -24,7 +24,7 @@
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="openImg(this.src)">
+<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
  <br>Место проживания: г.Москва
@@ -60,13 +60,13 @@
 <ul>
   <li><b>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</b>
   <ul>
-   <li><i>Механический факультет, очная форма</i>
-     <ul>    
-       <li>Год поступления и окончания: 1995-2000</li>
-       <li>Квалификация: Инженер-механик (диплом с отличием)</li>
-       <li>Специальность: Машины и оборудование лесного комплекса
-       <br><img src="diplom1_edu.jpg" height="50" onclick="openImg(this.src)"></li>
-     </ul>    
+  <li><i>Механический факультет, очная форма</i>
+   <ul>    
+     <li>Год поступления и окончания: 1995-2000</li>
+     <li>Квалификация: Инженер-механик (диплом с отличием)</li>
+     <li>Специальность: Машины и оборудование лесного комплекса
+     <br><img src="diplom1_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent; "onclick="openImg(this.src)"></li>
+   </ul>    
    </li>
   <li><i>Экономический факультет, очно-заочная форма</i>
    <ul>    
@@ -159,12 +159,12 @@
 <br>Наименование программы, курсов: ISO20000 – Implementation (стандарт процессов управления услугами ИТ)
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="iso2000_edu.jpg" height="50" onclick="openImg(this.src)">
+<br><img src="iso2000_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
 <br>
 <br>Наименование программы, курсов: Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL
 <br>Период обучения: 2008
 <br>Организатор: British Standards Institution
-<br><img src="ITIL_edu.jpg" height="50" onclick="openImg(this.src)">
+<br><img src="ITIL_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)">
 <br>
 <br>Наименование программы, курсов: тренинг “Мастерская бизнес-коммуникаций”
 <br>Период обучения: 2018
