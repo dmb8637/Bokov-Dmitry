@@ -13,10 +13,10 @@
         item.innerHTML = "Обновлено " + document.lastModified; 
     }
     
-    function openImg(src) {
+    function openImg() {
        var image = new Image();
        image.src = src;
-       window.open(src,"Image");
+       window.open(src,"1_MG_3769.jpg");
     }
     
 </script>
@@ -25,7 +25,7 @@
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="openImg(this)">
+<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" onclick="openImg()">
 <strong>Краткая информация:</strong>
  <br>Дата рождения: 17 июня 1978 г.
  <br>Место проживания: г.Москва
