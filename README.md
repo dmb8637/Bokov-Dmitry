@@ -9,7 +9,7 @@ function changeSizeImage(im) {
 </script>
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
-<p><small>обновлено 04-02-2020 12:37</small></p>
+<p><small>обновлено 04-02-2020 12:17</small></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="140" target="blank">
 <strong>Краткая информация:</strong>
