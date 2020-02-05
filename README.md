@@ -7,15 +7,18 @@
         if(im.height == bigsize) im.height = smallsize;
             else im.height = bigsize;
     }
+    
     window.onload = function() {
         var item = document.querySelector(".item");
         item.innerHTML = "Обновлено " + document.lastModified; 
     }
+    
     function openImg(src) {
        var image = new Image();
         image.src = src;
         var width = image.widwindow.open(src,"Image");
     }
+    
 </script>
 <p><a name="maininfo"></a></p>
 <h1>БОКОВ
