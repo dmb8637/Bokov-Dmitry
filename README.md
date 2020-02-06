@@ -26,10 +26,20 @@
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)">
 <strong>Краткая информация:</strong>
- <br>Дата рождения: 17 июня 1978 г.
- <br>Место проживания: г.Москва
- <br>Семейное положение/дети: Не женат/сын 2012 г.р.
- <br>Образование: высшее
+<table>
+ <tr>
+     <td align="center">Дата рождения</td>
+     <td align="center">Место проживания</td>
+     <td align="center">Семейное положение/дети</td> 
+     <td align="center">Образование</td>
+ </tr>
+ <tr>
+     <td>17 июня 1978 г.</td>
+     <td>город Москва</td>
+     <td>Не женат/сын 2012 г.р.</td>
+     <td>Высшее</td>
+ </tr>
+</table>    
  <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong> Контакты:</strong>
  <br><img src="Phone_31105.png" width="25" height="25"> Телефон: <strong>+7(962) 206-08-44; +7(910) 960-16-96</strong>
  <br><img src="anewe-mail_mail_message_7036.png" width="25" height="25"> E-mail: <strong>dmb8637@mail.ru</strong>
