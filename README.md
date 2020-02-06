@@ -31,7 +31,7 @@
      <td rowspan="5"><img src="1_MG_3769.jpg" title="Кликайте на изображения для увеличения" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
-     <td align="left"><strong>Дата рождения</strong></td>
+     <td align="left"><strong><small>Дата рождения</small></strong></td>
      <td align="center">17 июня 1978 г.</td>
  </tr>
  <tr>
