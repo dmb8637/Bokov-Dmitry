@@ -24,12 +24,11 @@
 <h1>БОКОВ
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
-<p><small>Кликайте на изображения для увеличения</small></p>
-<p><strong>ОСНОВНЫЕ СВЕДЕНИЯ, КОНТАКТЫ:</strong></p>
+<p><strong>Краткая информация:</strong></p>
 
 <table>
  <tr>
-     <td rowspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
+     <td rowspan="5"><img src="1_MG_3769.jpg" title="Кликайте на изображения для увеличения" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
      <td align="left"><strong>Дата рождения</strong></td>
