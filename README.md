@@ -26,18 +26,21 @@
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><strong>Краткая информация:</strong>
 <table>
- <tr><td rowspan="3"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td></tr>   
+ <tr><td rowspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td></tr>   
  <tr>
-     <td align="center">Дата рождения</td>
-     <td align="center">Место проживания</td>
-     <td align="center">Семейное положение/дети</td> 
-     <td align="center">Образование</td>
+     <td align="center"><strong>Дата рождения</strong></td>
+     <td align="center">17 июня 1978 г.</td>
  </tr>
  <tr>
-     <td>17 июня 1978 г.</td>
-     <td>город Москва</td>
-     <td>Не женат/сын 2012 г.р.</td>
-     <td>Высшее</td>
+     <td align="center"><strong>Место проживания</strong></td> 
+     <td align="center">город Москва</td>
+ </tr>
+ <tr>
+     <td align="center"><strong>Семейное положение/дети</strong></td>
+     <td align="center">Не женат/сын 2012 г.р.</td>
+ </tr>    
+     <td align="center"><strong>Образование</strong></td>
+     <td align="center">Высшее</td>
  </tr>
 </table>    
  <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong> Контакты:</strong>
