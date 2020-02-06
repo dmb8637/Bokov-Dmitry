@@ -9,8 +9,9 @@
     }
     
     window.onload = function() {
+        var d = new Date(document.lastModified);
         var item = document.querySelector(".item");
-        item.innerHTML = "Обновлено " + document.lastModified; 
+        item.innerHTML = "Обновлено " + d.toString('dd.MM.yyyy HH:mm'); 
     }
     
     function openImg(src) {
