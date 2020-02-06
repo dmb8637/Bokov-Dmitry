@@ -25,9 +25,10 @@
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><strong>Краткая информация:</strong>
+
 <table>
  <tr>
-     <td>rowspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
+     <td rowspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
      <td align="left"><strong>Дата рождения</strong></td>
