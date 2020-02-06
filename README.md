@@ -48,19 +48,19 @@
 
 <table>
     <tr>
-        <td><img src="Phone_31105.png" width="15" height="15">Телефон</td>
+        <td><img src="Phone_31105.png" width="15" height="15"> Телефон</td>
         <td><strong>+7(962) 206-08-44; +7(910) 960-16-96</strong></td>
     </tr>
     <tr>
-        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15">E-mail</td>
+        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15"> E-mail</td>
         <td><strong>dmb8637@mail.ru</strong></td>
     </tr>
     <tr>
-        <td><img src="metro_internetexplorer_11335.png" width="15" height="15">В интернете</td>
+        <td><img src="metro_internetexplorer_11335.png" width="15" height="15"> В интернете</td>
         <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a></td>
     </tr>
     <tr>
-        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15">В социальных сетях</td>
+        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"> В социальных сетях</td>
         <td><a HREF="https://vk.com/id32994005">ВКонтакте</a></td>
     </tr>    
 </table>
