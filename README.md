@@ -26,7 +26,7 @@
 <p><small>Кликайте на изображения для увеличения </small></p>
 <p><strong>Краткая информация:</strong>
 <table>
- <tr><td><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td></tr>   
+ <tr><td rowspan="2"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td></tr>   
  <tr>
      <td align="center">Дата рождения</td>
      <td align="center">Место проживания</td>
