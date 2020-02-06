@@ -225,7 +225,7 @@
 <tr>    
     <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
     <td>2008</td>
-    <td></td>
+    <td>British Standards Institution</td>
     <td><img src="iso2000_edu.jpg" title="Кликайте на изображения для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
 </tr>    
 <tr>
