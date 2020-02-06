@@ -32,7 +32,7 @@
  </tr>   
  <tr>
      <td align="left"><strong><small>Дата рождения</small></strong></td>
-     <td align="center">17 июня 1978 г.</td>
+     <td align="center"><small>17 июня 1978 г.</small></td>
  </tr>
  <tr>
      <td align="left"><strong>Место проживания</strong></td> 
