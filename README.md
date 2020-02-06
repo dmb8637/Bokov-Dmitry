@@ -28,28 +28,41 @@
 <table>
  <tr><td rowspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td></tr>   
  <tr>
-     <td align="center"><strong>Дата рождения</strong></td>
+     <td align="left"><strong>Дата рождения</strong></td>
      <td align="center">17 июня 1978 г.</td>
  </tr>
  <tr>
-     <td align="center"><strong>Место проживания</strong></td> 
+     <td align="left"><strong>Место проживания</strong></td> 
      <td align="center">город Москва</td>
  </tr>
  <tr>
-     <td align="center"><strong>Семейное положение/дети</strong></td>
+     <td align="left"><strong>Семейное положение/дети</strong></td>
      <td align="center">Не женат/сын 2012 г.р.</td>
  </tr>    
-     <td align="center"><strong>Образование</strong></td>
+     <td align="left"><strong>Образование</strong></td>
      <td align="center">Высшее</td>
  </tr>
 </table>    
- <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong> Контакты:</strong>
- <br><img src="Phone_31105.png" width="25" height="25"> Телефон: <strong>+7(962) 206-08-44; +7(910) 960-16-96</strong>
- <br><img src="anewe-mail_mail_message_7036.png" width="25" height="25"> E-mail: <strong>dmb8637@mail.ru</strong>
- <br><img src="metro_internetexplorer_11335.png" width="25" height="25"> В интернете: <a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a>
- <br><img src="VK-Icon_icon-icons.com_52860.png" width="25" height="25"> В социальных сетях: <a HREF="https://vk.com/id32994005">ВКонтакте</a>
-</p>
-<!--***********************************************************-->
+ <br><img src="application_WLM_contacts_messaging_2485.png" width="25" height="25"><strong>Контакты:</strong>
+ <table>
+    <tr>
+        <td><img src="Phone_31105.png" width="25" height="25">Телефон</td>
+        <td><strong>+7(962) 206-08-44; +7(910) 960-16-96</strong></td>
+    </tr>
+    <tr>
+        <td><img src="anewe-mail_mail_message_7036.png" width="25" height="25">E-mail</td>
+        <td><strong>dmb8637@mail.ru</strong></td>
+    </tr>
+    <tr>
+        <td><img src="metro_internetexplorer_11335.png" width="25" height="25">В интернете</td>
+        <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a></td>
+    </tr>
+    <tr>
+        <td><img src="VK-Icon_icon-icons.com_52860.png" width="25" height="25">В социальных сетях</td>
+        <td><a HREF="https://vk.com/id32994005">ВКонтакте</a></td>
+    </tr>    
+</table>
+
 <table>
   <tr>
     <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="30" height="30"> документы об образовании</a></td>
