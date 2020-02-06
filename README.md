@@ -10,7 +10,7 @@
     
     window.onload = function() {
         var item = document.querySelector(".item");
-        item.innerHTML = "Обновлено " + document.lastModified.format("ddd mmm dd yyyy HH:MM:ss"); 
+        item.innerHTML = "Обновлено " + document.lastModified; 
     }
     
     function openImg(src) {
