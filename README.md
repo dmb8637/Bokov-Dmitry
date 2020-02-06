@@ -35,16 +35,16 @@
      <td align="center"><small>17 июня 1978 г.</small></td>
  </tr>
  <tr>
-     <td align="left"><strong>Место проживания</strong></td> 
-     <td align="center">город Москва</td>
+     <td align="left"><strong><small>Место проживания</small></strong></td> 
+     <td align="center"><small>город Москва</small></td>
  </tr>
  <tr>
-     <td align="left"><strong>Семейное положение/дети</strong></td>
-     <td align="center">Не женат/сын 2012 г.р.</td>
+     <td align="left"><strong><small>Семейное положение/дети</small></strong></td>
+     <td align="center"><small>Не женат/сын 2012 г.р.</small></td>
  </tr>
  <tr>   
-     <td align="left"><strong>Образование</strong></td>
-     <td align="center">Высшее</td>
+     <td align="left"><strong><small>Образование</small></strong></td>
+     <td align="center"><small>Высшее</small></td>
  </tr>
 </table>    
 
@@ -52,27 +52,27 @@
 
 <table>
     <tr>
-        <td><img src="Phone_31105.png" width="15" height="15"> Телефон</td>
-        <td><strong>+7(962) 206-08-44; +7(910) 960-16-96</strong></td>
+        <td><img src="Phone_31105.png" width="15" height="15"><small> Телефон</small></td>
+        <td><strong><small>+7(962) 206-08-44; +7(910) 960-16-96</small></strong></td>
     </tr>
     <tr>
-        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15"> E-mail</td>
-        <td><strong>dmb8637@mail.ru</strong></td>
+        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15"><small> E-mail</small></td>
+        <td><strong><small>dmb8637@mail.ru</small></strong></td>
     </tr>
     <tr>
-        <td><img src="metro_internetexplorer_11335.png" width="15" height="15"> В интернете</td>
-        <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a></td>
+        <td><img src="metro_internetexplorer_11335.png" width="15" height="15"><small> В интернете</small></td>
+        <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry"><small>Сайт</small></a></td>
     </tr>
     <tr>
-        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"> В социальных сетях</td>
-        <td><a HREF="https://vk.com/id32994005">ВКонтакте</a></td>
+        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"><small> В социальных сетях</small></td>
+        <td><a HREF="https://vk.com/id32994005"><small>ВКонтакте</small></a></td>
     </tr>    
 </table>
 
 <table>
   <tr>
-    <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="15" height="15"> документы об образовании</a></td>
-    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="15" height="15"> резюме одним файлом</a></td>
+    <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="15" height="15"><small> документы об образовании</small></a></td>
+    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="15" height="15"><small> резюме одним файлом</small></a></td>
   </tr>
 </table>
 <!--***********************************************************-->
