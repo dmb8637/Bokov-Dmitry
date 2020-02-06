@@ -47,7 +47,7 @@
  </tr>
 </table>    
 
-<img src="application_WLM_contacts_messaging_2485.png" width="15" height="15"><strong>Контакты:</strong>
+<img src="application_WLM_contacts_messaging_2485.png" width="15" height="15"><strong> Контакты:</strong>
 
 <table>
     <tr>
