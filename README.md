@@ -10,7 +10,7 @@
     
     window.onload = function() {
         var item = document.querySelector(".item");
-        item.innerHTML = "Обновлено " + (document.lastModified-Date.Now()) + " назад"; 
+        item.innerHTML = "Обновлено " + document.lastModified; 
     }
     
     function openImg(src) {
@@ -24,7 +24,7 @@
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><strong>Краткая информация:</strong>
+<p><strong>Краткая информация:</strong></p>
 
 <table>
  <tr>
