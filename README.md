@@ -10,7 +10,7 @@
     
     window.onload = function() {
         var item = document.querySelector(".item");
-        item.innerHTML = "Обновлено " + document.lastModified; 
+        item.innerHTML = "Обновлено " + (document.lastModified-Date.Now()) + " назад"; 
     }
     
     function openImg(src) {
