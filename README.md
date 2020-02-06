@@ -27,8 +27,8 @@
 <p><strong>Краткая информация:</strong>
 
 <table>
- <tr rowspan="5">
-     <td><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
+ <tr>
+     <td colspan="5"><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
      <td align="left"><strong>Дата рождения</strong></td>
