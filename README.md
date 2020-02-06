@@ -71,8 +71,8 @@
 
 <table>
   <tr>
-    <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="30" height="30"> документы об образовании</a></td>
-    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="30" height="30"> резюме одним файлом</a></td>
+    <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="15" height="15"> документы об образовании</a></td>
+    <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="15" height="15"> резюме одним файлом</a></td>
   </tr>
 </table>
 <!--***********************************************************-->
@@ -106,7 +106,7 @@
         <td>1995-2000</td>
         <td>Инженер-механик (диплом с отличием)</td>
         <td>Машины и оборудование лесного комплекса</td>
-        <td><img src="diplom1_edu.jpg" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom1_edu.jpg" title="Кликайте на изображения для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Экономический</td>
@@ -114,7 +114,7 @@
         <td>1998-2001</td>
         <td>Экономист</td>
         <td>Финансы и кредит (специализация «Банковское дело»)</td>
-        <td><img src="diplom2_edu.jpg" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom2_edu.jpg" title="Кликайте на изображения для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Военная кафедра</td>
@@ -139,7 +139,7 @@
   <li>Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических инструментов (OLAP-КУБ, QlikView);</li>
   <li>Работа с нейросетями, распознавание образов и текста, машинное обучение; </li>
   <li>Роботизация бизнес-процессов (RPA Blue Prizm);
-  <br><img src="sertRPA_BokovDA.png" height="140" valign="top" align="left" style="border: 10px solid transparent;"  onclick="openImg(this.src)"></li>
+  <br><img src="sertRPA_BokovDA.png" title="Кликайте на изображения для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;"  onclick="openImg(this.src)"></li>
   <li>Администрирование программного обеспечения розничного блока (АС Филиал, АС Филиал-сбербанк, RS-Retail, АС ЦОД), информационно-платежными терминалами (ProSet), банковскими картами (POS-терминалы);</li>
   <li>Семинары по технике продаж, комплекс тренингов “Мастерская бизнес-коммуникаций”, “Навыки личной эффективности”, участие в управленческих поединках и т.д.);</li>
   <li>Участие в проекте ПАО Сбербанк “Витрины устройств самообслуживания”, непосредственное участие в разработке (кластерный анализ) в сентябре 2017 года.</li>
@@ -220,19 +220,19 @@
     <td>Oracle Database 10g: SQL Fundamentals I и II</td>
     <td>2008</td>
     <td>КАМИ учебный центр</td>
-    <td><img src="oracleDB_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+    <td><img src="oracleDB_edu.jpg" title="Кликайте на изображения для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
 </tr>
 <tr>    
     <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
     <td>2008</td>
     <td></td>
-    <td><img src="iso2000_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+    <td><img src="iso2000_edu.jpg" title="Кликайте на изображения для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
 </tr>    
 <tr>
     <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
     <td>2008</td>
     <td>British Standards Institution</td>
-    <td><img src="ITIL_edu.jpg" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+    <td><img src="ITIL_edu.jpg" title="Кликайте на изображения для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
 </tr>
 <tr>
     <td>тренинг “Мастерская бизнес-коммуникаций”</td>
