@@ -24,9 +24,9 @@
 <br>Дмитрий Алексеевич</h1>
 <p><div class="item"></div></p>
 <p><small>Кликайте на изображения для увеличения </small></p>
-<p><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)">
-<strong>Краткая информация:</strong>
+<p><strong>Краткая информация:</strong>
 <table>
+ <tr><img src="1_MG_3769.jpg" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></tr>   
  <tr>
      <td align="center">Дата рождения</td>
      <td align="center">Место проживания</td>
