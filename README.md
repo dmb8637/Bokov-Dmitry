@@ -31,20 +31,20 @@
      <td rowspan="5"><img src="1_MG_3769.jpg" title="Кликайте на изображения для увеличения" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
-     <td align="left"><strong><small>Дата рождения</small></strong></td>
-     <td align="center"><small>17 июня 1978 г.</small></td>
+     <td align="left"><strong>Дата рождения</strong></td>
+     <td align="center">17 июня 1978 г.</td>
  </tr>
  <tr>
-     <td align="left"><strong><small>Место проживания</small></strong></td> 
-     <td align="center"><small>город Москва</small></td>
+     <td align="left"><strong>Место проживания</strong></td> 
+     <td align="center">город Москва</td>
  </tr>
  <tr>
-     <td align="left"><strong><small>Семейное положение/дети</small></strong></td>
-     <td align="center"><small>Не женат/сын 2012 г.р.</small></td>
+     <td align="left"><strong>Семейное положение/дети</strong></td>
+     <td align="center">Не женат/сын 2012 г.р.</td>
  </tr>
  <tr>   
-     <td align="left"><strong><small>Образование</small></strong></td>
-     <td align="center"><small>Высшее</small></td>
+     <td align="left"><strong>Образование</strong></td>
+     <td align="center">Высшее</td>
  </tr>
 </table>    
 
@@ -52,20 +52,20 @@
 
 <table>
     <tr>
-        <td><img src="Phone_31105.png" width="15" height="15"><small> Телефон</small></td>
-        <td><strong><small>+7(962) 206-08-44; +7(910) 960-16-96</small></strong></td>
+        <td><img src="Phone_31105.png" width="15" height="15"> Телефон</td>
+        <td><strong>+7(962) 206-08-44; +7(910) 960-16-96</strong></td>
     </tr>
     <tr>
-        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15"><small> E-mail</small></td>
-        <td><strong><small>dmb8637@mail.ru</small></strong></td>
+        <td><img src="anewe-mail_mail_message_7036.png" width="15" height="15"> E-mail</td>
+        <td><strong>dmb8637@mail.ru</strong></td>
     </tr>
     <tr>
-        <td><img src="metro_internetexplorer_11335.png" width="15" height="15"><small> В интернете</small></td>
-        <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry"><small>Сайт</small></a></td>
+        <td><img src="metro_internetexplorer_11335.png" width="15" height="15"> В интернете</td>
+        <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a></td>
     </tr>
     <tr>
-        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"><small> В социальных сетях</small></td>
-        <td><a HREF="https://vk.com/id32994005"><small>ВКонтакте</small></a></td>
+        <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"> В социальных сетях</td>
+        <td><a HREF="https://vk.com/id32994005">ВКонтакте</a></td>
     </tr>    
 </table>
 
