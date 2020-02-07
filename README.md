@@ -2,8 +2,21 @@
 <script language = "JavaScript">
 
     window.onload = function() {
-    
+		var inp_comment = document.querySelector('input[name=comment]');
+		
+		document.querySelector('#send').onclick = function(){
+			var params = 'comment=' + inp_comment.value;
+			sendPost(params);
+		}
     }
+    
+	function sendPost(params){
+		var request = XMLHttpRequest();
+		
+		request.open('POST', 'app.php');
+		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+		request.send(params);
+	}
     
     window.onload = function() {
         var d = new Date(document.lastModified);
@@ -285,5 +298,5 @@
  <form action="app.php">
   <p><b>Введите ваш отзыв:</b></p>
   <p><textarea name="comment"></textarea></p>
-  <p><input type="submit"></p>
+  <p><input type="submit" id="send"></p>
  </form> 
