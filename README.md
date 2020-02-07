@@ -10,8 +10,8 @@
 		}
     }
     
-	function sendPost(params){
-		var request = XMLHttpRequest();
+    function sendPost(params){
+    		var request = XMLHttpRequest();
 		
 		request.open('POST', 'app.php');
 		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
