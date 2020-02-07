@@ -1,11 +1,8 @@
 <head><link rel = "stylesheet" href = "css/styles.css"></head>
 <script language = "JavaScript">
 
-    function changeSizeImage(im) {
-        var bigsize = "500";
-        var smallsize = "140";
-        if(im.height == bigsize) im.height = smallsize;
-            else im.height = bigsize;
+    window.onload = function() {
+    
     }
     
     window.onload = function() {
@@ -84,6 +81,7 @@
   <li><a href="#profess">Профессиональная деятельность</a></li>
   <li><a href="#dopedu">Дополнительное образование</a></li>
   <li><a href="#dopinfo">Дополнительная информация</a></li>
+  <li><a href="#feedback">Форма обратной связи</a></li>
 </ul>
 <!--***********************************************************-->
 <p><a name="mainedu"></a></p>
@@ -281,3 +279,11 @@
 <p><a name="dopinfo"></a></p>
 <br><strong>ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</strong>
 <p>Исполнителен, трудолюбив, пунктуален, аккуратен. Умею работать в команде. Клиентоориентирован. Легко обучаем, настойчив. Есть большое желание работать и развиваться.</p>
+
+<p><a name="feedback"></a></p>
+<br><strong>Форма обратной связи</strong>
+ <form action="app.php">
+  <p><b>Введите ваш отзыв:</b></p>
+  <p><textarea name="comment"></textarea></p>
+  <p><input type="submit"></p>
+ </form> 
