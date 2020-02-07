@@ -15,14 +15,14 @@
     }
 
     function sendPost(params){
-    		var request = XMLHttpRequest();
+    		var request = new XMLHttpRequest();
 		
 		request.onreadystatechange = function(){
 			if(request.readyState == 4 && request.status == 200){
 				document.querySelector('#result').innerHTML = request.responseText;
 				}
 		}
-		document.querySelector('#result').innerHTML = params;
+
 		request.open('POST', 'app.php');
 		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		request.send(params);
