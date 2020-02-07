@@ -85,7 +85,7 @@
     <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="15" height="15"><small> резюме одним файлом</small></a></td>
   </tr>
 </table>
-<!--***********************************************************-->
+
 <ul><strong>ОГЛАВЛЕНИЕ:</strong>
   <li><a href="#maininfo">Основные сведения, контакты</a></li>
   <li><a href="#mainedu">Основное образование</a></li>
@@ -96,7 +96,15 @@
   <li><a href="#dopinfo">Дополнительная информация</a></li>
   <li><a href="#feedback">Форма обратной связи</a></li>
 </ul>
-<!--***********************************************************-->
+
+<p><a name="feedback"></a></p>
+<br><strong>Форма обратной связи</strong>
+ <form>
+  <p>Введите ваш отзыв:</p>
+  <p><textarea name="comment"></textarea></p>
+  <p><input type="button" id="send" value="Отправить"></p>
+ </form> 
+ 
 <p><a name="mainedu"></a></p>
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
@@ -293,10 +301,4 @@
 <br><strong>ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ</strong>
 <p>Исполнителен, трудолюбив, пунктуален, аккуратен. Умею работать в команде. Клиентоориентирован. Легко обучаем, настойчив. Есть большое желание работать и развиваться.</p>
 
-<p><a name="feedback"></a></p>
-<br><strong>Форма обратной связи</strong>
- <form>
-  <p>Введите ваш отзыв:</p>
-  <p><textarea name="comment"></textarea></p>
-  <p><input type="button" id="send" value="Отправить"></p>
- </form> 
+<br><a href="#maininfo">Наверх</a>
