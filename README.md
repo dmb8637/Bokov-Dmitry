@@ -20,6 +20,7 @@
 		request.onreadystatechange = function(){
 			if(request.readyState == 4 && request.status == 200){
 				document.querySelector('#result').innerHTML = request.responseText;
+				document.querySelector('input[name=comment]').clear;
 				}
 		}
 
