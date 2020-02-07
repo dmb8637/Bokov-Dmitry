@@ -4,7 +4,7 @@
     window.onload = function() {
 		var inp_comment = document.querySelector('input[name=comment]');
 		
-		document.querySelector('#send').onclick = function(){
+		document.querySelector('.send').onclick = function(){
 			var params = 'comment=' + inp_comment.value;
 			sendPost(params);
 		}
@@ -101,7 +101,7 @@
 <br><strong>Форма обратной связи</strong>
  <form>
   <p>Введите ваш отзыв:</p>
-  <p><textarea name="comment"></textarea></p>
+  <p><input textarea name="comment"></textarea></p>
   <p><input type="button" id="send" value="Отправить"></p>
  </form> 
  
