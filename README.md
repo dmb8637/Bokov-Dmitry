@@ -1,3 +1,4 @@
+<head></head>
 <script language = "JavaScript">
 
     window.onload = function() {
