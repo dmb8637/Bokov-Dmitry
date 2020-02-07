@@ -4,18 +4,16 @@
     window.onload = function() {
         var d = new Date(document.lastModified);
         var item = document.querySelector(".item");
-        item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm'); 
-    }
-    
-    window.onload = function() {
-		var inp_comment = document.querySelector('input[name=comment]');
+        item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm');
+	
+	var inp_comment = document.querySelector('input[name=comment]');
 		
-		document.querySelector('#send').onclick = function(){
-			var params = 'comment=' + inp_comment.value;
-			sendPost(params);
-		}
+	document.querySelector('#send').onclick = function(){
+		var params = 'comment=' + inp_comment.value;
+		sendPost(params);
+	}
     }
-    
+
     function sendPost(params){
     		var request = XMLHttpRequest();
 		
