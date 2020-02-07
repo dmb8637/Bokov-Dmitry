@@ -295,7 +295,7 @@
 
 <p><a name="feedback"></a></p>
 <br><strong>Форма обратной связи</strong>
- <form action="app.php">
+ <form>
   <p>Введите ваш отзыв:</p>
   <p><textarea name="comment"></textarea></p>
   <p><input type="submit" id="send"></p>
