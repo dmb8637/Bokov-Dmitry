@@ -101,7 +101,7 @@
 <br><strong>Форма обратной связи</strong>
  <form>
   <p>Введите ваш отзыв:</p>
-  <p><input textarea name="comment" width="300px" height="50px"></textarea></p>
+  <p><input text name="comment" width="300px" height="50px"></p>
   <p><input type="button" id="send" value="Отправить"></p>
  </form> 
  
