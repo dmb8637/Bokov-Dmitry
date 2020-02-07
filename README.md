@@ -5,6 +5,7 @@
 		var inp_comment = document.querySelector('input[name=comment]');
 		
 		document.querySelector(".send").onclick = function(){
+			alert(1);
 			var params = 'comment=' + inp_comment.value;
 			sendPost(params);
 		}
