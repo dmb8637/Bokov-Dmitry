@@ -6,29 +6,8 @@
         var item = document.querySelector(".item");
         item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm');
 	
-	var inp_comment = document.querySelector('input[name=comment]');
-		
-	document.querySelector('#send').onclick = function(){
-		var params = 'comment=' + inp_comment.value;
-		sendPost(params);
-	}
     }
 
-    function sendPost(params){
-    		var request = new XMLHttpRequest();
-		
-		request.onreadystatechange = function(){
-			if(request.readyState == 4 && request.status == 200){
-				document.querySelector('#result').innerHTML = request.responseText;
-				document.querySelector('input[name=comment]').clear;
-				}
-		}
-
-		request.open('POST', 'app.php');
-		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-		request.send(params);
-	}
-    
     function openImg(src) {
        var image = new Image();
        image.src = src;
@@ -99,18 +78,8 @@
   <li><a href="#profess">Профессиональная деятельность</a></li>
   <li><a href="#dopedu">Дополнительное образование</a></li>
   <li><a href="#dopinfo">Дополнительная информация</a></li>
-  <li><a href="#feedback">Форма обратной связи</a></li>
 </ul>
 
-<p><a name="feedback"></a></p>
-<br><strong>Форма обратной связи</strong>
- <form>
-  Введите ваш отзыв:<br>
-  <input text name="comment"><br>
-  <input type="button" id="send" value="Отправить"><br>
- </form> 
-<div id="result"></div>
- 
 <p><a name="mainedu"></a></p>
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
 <br>
