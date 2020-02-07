@@ -298,5 +298,5 @@
  <form>
   <p>Введите ваш отзыв:</p>
   <p><textarea name="comment"></textarea></p>
-  <p><input type="submit" id="send"></p>
+  <p><input type="button" id="send" value="Отправить"></p>
  </form> 
