@@ -42,7 +42,7 @@
 
 <table>
  <tr>
-     <td rowspan="5"><img src="1_MG_3769.jpg" title="Кликайте на изображения для увеличения" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
+     <td rowspan="5"><img src="1_MG_3769.jpg" title="Нажмите для увеличения" valign="top" align="left" style="border: 10px solid transparent;" height="180" onclick="openImg(this.src)"></td>
  </tr>   
  <tr>
      <td align="left"><strong>Дата рождения</strong></td>
