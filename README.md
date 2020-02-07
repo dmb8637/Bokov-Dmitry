@@ -22,7 +22,7 @@
 				document.querySelector('#result').innerHTML = request.responseText;
 				}
 		}
-		
+		document.querySelector('#result').innerHTML = params;
 		request.open('POST', 'app.php');
 		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		request.send(params);
