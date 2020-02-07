@@ -102,7 +102,7 @@
 <br><strong>Форма обратной связи</strong>
  <form>
   Введите ваш отзыв:<br>
-  input text name="comment"><br>
+  <input text name="comment"><br>
   <input type="button" id="send" value="Отправить"><br>
  </form> 
  
