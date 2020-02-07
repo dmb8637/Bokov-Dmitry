@@ -1,4 +1,3 @@
-<head><link rel = "stylesheet" href = "css/styles.css"></head>
 <script language = "JavaScript">
 
     window.onload = function() {
@@ -108,7 +107,7 @@
   <input text name="comment"><br>
   <input type="button" id="send" value="Отправить"><br>
  </form> 
- <div id="result"></div>
+<div id="result"></div>
  
 <p><a name="mainedu"></a></p>
 <br><strong>ОСНОВНОЕ ОБРАЗОВАНИЕ:</strong>
