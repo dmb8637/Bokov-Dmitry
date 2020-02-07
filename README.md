@@ -2,6 +2,12 @@
 <script language = "JavaScript">
 
     window.onload = function() {
+        var d = new Date(document.lastModified);
+        var item = document.querySelector(".item");
+        item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm'); 
+    }
+    
+    window.onload = function() {
 		var inp_comment = document.querySelector('input[name=comment]');
 		
 		document.querySelector('#send').onclick = function(){
@@ -23,12 +29,6 @@
 		request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		request.send(params);
 	}
-    
-    window.onload = function() {
-        var d = new Date(document.lastModified);
-        var item = document.querySelector(".item");
-        item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm'); 
-    }
     
     function openImg(src) {
        var image = new Image();
