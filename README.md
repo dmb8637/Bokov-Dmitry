@@ -101,9 +101,9 @@
 <p><a name="feedback"></a></p>
 <br><strong>Форма обратной связи</strong>
  <form>
-  <p>Введите ваш отзыв:</p>
-  <p><input textarea name="comment" width="700px" height="100px"></textarea></p>
-  <p><input type="button" id="send" value="Отправить"></p>
+  Введите ваш отзыв:<br>
+  input text name="comment"><br>
+  <input type="button" id="send" value="Отправить"><br>
  </form> 
  
 <p><a name="mainedu"></a></p>
