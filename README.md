@@ -4,7 +4,7 @@
     window.onload = function() {
         var d = new Date(document.lastModified);
         var item = document.querySelector(".item");
-        item.innerHTML = "обновлено " + d.toString('dd.MM.yyyy HH:mm');
+        item.innerHTML = "обновлено: " + d.toString('dd.MM.yyyy HH:mm');
 	
     }
 
