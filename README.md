@@ -128,6 +128,7 @@
 
 <p><a name="mainexp"></a></p>
 <br><strong>Основные достижения:</strong>
+<br>нажимайте на указатель для развертывания
 <div class = "_mainexp">
 	<details class = "item">
 		<summary class = "ask">Программирование</summary>
