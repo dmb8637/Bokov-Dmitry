@@ -126,6 +126,10 @@
 <br><strong>Уровень владения иностранным языком</strong>
 <br>Английский B1 Intermediate - разговорный уровень.
 
+<body>
+	.faq>details.item*5>summary.ask{Some ask $}+.answer{}
+</body>	
+
 <p><a name="mainexp"></a></p>
 <br><strong>Основные достижения:</strong>
 <br> 
