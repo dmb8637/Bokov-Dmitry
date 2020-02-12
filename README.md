@@ -126,9 +126,44 @@
 <br><strong>Уровень владения иностранным языком</strong>
 <br>Английский B1 Intermediate - разговорный уровень.
 
-<body>
-	.faq>details.item*5>summary.ask{Some ask $}+.answer{}
-</body>	
+<br>
+<div class = "_mainexp">
+	<details class = "item">
+		<summary class = "ask">Программирование</summary>
+		<div class = "answer">
+		</div>
+	</details>	
+	<details class = "item">
+		<summary class = "ask">СУБД и данные</summary>
+		<div class = "answer">
+		</div>
+	</details>
+	<details class = "item">
+		<summary class = "ask">Нейросети, машинное обучение</summary>
+		<div class = "answer">
+		</div>
+	</details>
+	<details class = "item">
+		<summary class = "ask">Банковские фронт и бэк системы</summary>
+		<div class = "answer">
+		</div>
+	</details>
+	<details class = "item">
+		<summary class = "ask">Роботизация</summary>
+		<div class = "answer">
+		</div>
+	</details>
+	<details class = "item">
+		<summary class = "ask">Реализованные проекты</summary>
+		<div class = "answer">
+		</div>
+	</details>
+	<details class = "item">
+		<summary class = "ask">Коммуникации</summary>
+		<div class = "answer">
+		</div>
+	</details>
+</div>	
 
 <p><a name="mainexp"></a></p>
 <br><strong>Основные достижения:</strong>
@@ -145,7 +180,7 @@
   <li>Участие в проекте ПАО Сбербанк “Витрины устройств самообслуживания”, непосредственное участие в разработке (кластерный анализ) в сентябре 2017 года.</li>
   <li>Участие в проекте ПАО Сбербанк “Автоматическая диспетчеризация распределения задач залоговой службы”, непосредственное участие в разработке (RPA) в июне 2019 года.</li>
 </ul>  
-<!--***********************************************************-->
+
 <p><a name="profess"></a></p>
 <br><strong>ПРОФЕССИОНАЛЬНАЯ ДЕЯТЕЛЬНОСТЬ (в обратном хронологическом порядке)</strong>
 <br>
