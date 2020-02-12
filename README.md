@@ -158,7 +158,7 @@
 		<summary class = "ask">Роботизация</summary>
 		<div class = "answer">
 			Роботизация бизнес-процессов (RPA Blue Prizm);
-  <br><img src="sertRPA_BokovDA.png" title="Нажмите для увеличения" height="140" valign="top" align="left" onclick="openImg(this.src)">
+  <br><img src="sertRPA_BokovDA.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
