@@ -131,7 +131,7 @@
 <br><small>нажимайте на указатель для развертывания</small>
 <div class = "_mainexp">
 	<details class = "item">
-		<summary class = "ask" after:content = "+">Программирование</summary>
+		<summary class = "ask">Программирование</summary>
 		<div class = "answer">
 			Опыт программирования на HTML, CSS, JavaScript, С#, Python, VBA. Навыки верстки сайтов;
 		</div>
