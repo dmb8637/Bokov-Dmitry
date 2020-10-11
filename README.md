@@ -30,7 +30,7 @@
      <td align="center">17 июня 1978 г.</td>
  </tr>
  <tr>
-     <td align="left"><strong>Место проживания</strong></td> 
+     <td align="left"><strong>Место проживания:</strong></td> 
      <td align="center">город Москва</td>
  </tr>
  <tr>
