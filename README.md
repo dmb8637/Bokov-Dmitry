@@ -1,6 +1,9 @@
-<head>
-	<meta name="viewport" content="width=device-width">
-</head>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>Verification: fce5018edb0b9e5e</body>
+</html>
 <script language = "JavaScript">
 
     window.onload = function() {
