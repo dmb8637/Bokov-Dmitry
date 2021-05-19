@@ -8,7 +8,7 @@
 	var dateString = (d.getDate() < 10 ? '0' + d.getDate() : d.getDate()) + ' ' + 
 						 d.toLocaleString('ru', { month: 'long' }) + ' ' + d.getFullYear() + ' г.';
         var item = document.querySelector(".item");
-        item.innerHTML = "последнее обновление: " + dateString;
+        item.innerHTML = "последнее обновление:  " + dateString;
 	
     }
 
