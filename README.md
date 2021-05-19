@@ -133,11 +133,11 @@
 		<summary class = "ask">Программирование</summary>
 		<div class = "answer">
 			Опыт программирования на HTML, CSS, JavaScript, С#, Python, VBA. Навыки верстки сайтов;
-  <br><img src="programm_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="algoritmtask_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="agile.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="scrum_school.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/programm_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/algoritmtask_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/agile.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/scrum_school.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>	
 	<details class = "item">
@@ -145,15 +145,15 @@
 		<div class = "answer">
 			Cвод и анализ больших объемов данных с использованием PL/SQL, TransactSQL, TERADATA, Python Pandas.
 			Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических 				инструментов (OLAP-КУБ, QlikView);
-  <br><img src="math_analize.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/math_analize.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
 		<summary class = "ask">Нейросети, машинное обучение, искусственный интеллект</summary>
 		<div class = "answer">
 			Работа с нейросетями, распознавание образов и текста, машинное обучение. Участие в семинарах, а также личное 				увлечение вопросами машинного обучения, BIG DATA.
-  <br><img src="intro_ai.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="ds_intense.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/intro_ai.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br><img src="img/ds_intense.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
