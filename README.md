@@ -1,3 +1,6 @@
+<head>
+	<meta name="viewport" content="width=device-width">	
+</head>
 <script language = "JavaScript">
 
     window.onload = function() {
