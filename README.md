@@ -133,11 +133,11 @@
 		<summary class = "ask">Программирование</summary>
 		<div class = "answer">
 			Опыт программирования на HTML, CSS, JavaScript, С#, Python, VBA. Навыки верстки сайтов;
-  <br><img src="img/programm_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="img/algoritmtask_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="img/project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="img/agile.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="img/scrum_school.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Основы программирования<br><img src="img/programm_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Основы решений алгоритмических задач<br><img src="img/algoritmtask_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Проектирование процессов<br><img src="img/project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Agile<br><img src="img/agile.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Scrum-школа<br><img src="img/scrum_school.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>	
 	<details class = "item">
@@ -145,15 +145,16 @@
 		<div class = "answer">
 			Cвод и анализ больших объемов данных с использованием PL/SQL, TransactSQL, TERADATA, Python Pandas.
 			Сопровождение, обновление и развертывание СУБД (MsSQL, ORACLE Database, TERADATA), использование аналитических 				инструментов (OLAP-КУБ, QlikView);
-  <br><img src="img/math_analize.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Математический анализ<br><img src="img/math_analize.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
 		<summary class = "ask">Нейросети, машинное обучение, искусственный интеллект</summary>
 		<div class = "answer">
-			Работа с нейросетями, распознавание образов и текста, машинное обучение. Участие в семинарах, а также личное 				увлечение вопросами машинного обучения, BIG DATA.
-  <br><img src="img/intro_ai.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
-  <br><img src="img/ds_intense.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+			Работа с нейросетями, распознавание образов и текста(ABBYY FC12, tesseract, open cv), машинное обучение. Участие в семинарах, а также личное 				увлечение вопросами машинного обучения, BIG DATA.
+  Введение в искусственный интеллект<br><img src="img/intro_ai.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  Data Science, Python(pandas, numpy)<br><img src="img/ds_intense.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  ABBYY FC<br><img src="img/abbyy_sert.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
@@ -165,8 +166,8 @@
 	<details class = "item">
 		<summary class = "ask">Роботизация</summary>
 		<div class = "answer">
-			Роботизация бизнес-процессов (RPA Blue Prizm);
-  <br><img src="sertRPA_BokovDA.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+			Роботизация бизнес-процессов;
+  RPA Blue Prizm<br><img src="sertRPA_BokovDA.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>
 	<details class = "item">
