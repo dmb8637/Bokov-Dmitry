@@ -91,7 +91,7 @@
         <td align="center"><strong>Факультет</strong></td>
         <td align="center"><strong>Форма обучения</strong></td>
         <td align="center"><strong>Год поступления и окончания</strong></td>
-        <td align="center"><strong>Квалификация(Воинское звание)</strong></td>
+        <td align="center"><strong>Квалификация</strong></td>
         <!--td align="center"><strong>Специальность</strong></td-->
         <td align="center"><strong>Диплом</strong></td>
     </tr>
