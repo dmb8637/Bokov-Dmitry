@@ -64,12 +64,12 @@
     </tr>    
 </table>
 
-<table>
+<!--table>
   <tr>
     <td><a href="документы об образовании-rotated-pages-deleted.pdf" download><img src="1490129349-rounded05_82190.png" width="15" height="15"><small> документы об образовании</small></a></td>
     <td><a href="anketa_D_A_Bokov.pdf"><img src="1490129349-rounded05_82190.png" width="15" height="15"><small> резюме одним файлом</small></a></td>
   </tr>
-</table>
+</table-->
 
 <ul><strong>ОГЛАВЛЕНИЕ:</strong>
   <li><a href="#maininfo">1. Основные сведения, контакты</a></li>
