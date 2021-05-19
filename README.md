@@ -92,15 +92,15 @@
         <td align="center"><strong>Форма обучения</strong></td>
         <td align="center"><strong>Год поступления и окончания</strong></td>
         <td align="center"><strong>Квалификация(Воинское звание)</strong></td>
-        <td align="center"><strong>Специальность</strong></td>
+        <!--td align="center"><strong>Специальность</strong></td-->
         <td align="center"><strong>Диплом</strong></td>
     </tr>
     <tr>
         <td>Механический</td>
         <td>очная</td>
         <td>1995-2000</td>
-        <td>Инженер-механик (диплом с отличием)</td>
-        <td>Машины и оборудование лесного комплекса</td>
+        <td>Инженер-механик (с отличием)</td>
+        <!--td>Машины и оборудование лесного комплекса</td-->
         <td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
@@ -108,15 +108,15 @@
         <td>очно-заочная</td>
         <td>1998-2001</td>
         <td>Экономист</td>
-        <td>Финансы и кредит (специализация «Банковское дело»)</td>
+        <!--td>Финансы и кредит (специализация «Банковское дело»)</td-->
         <td><img src="diplom2_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Военная кафедра</td>
         <td>очная</td>
         <td>1998-2000</td>
-        <td>Лейтенант запаса (военный билет)</td>
-        <td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td>
+        <td>Лейтенант запаса (ВУС 101501)</td>
+        <!--td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td-->
         <td></td>
     </tr>    
 </table>
