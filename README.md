@@ -38,7 +38,7 @@
  </tr>
  <tr>
      <td align="left"><strong>Семейное положение/дети</strong></td>
-     <td align="center">Не женат/сын 2012 г.р.</td>
+     <td align="center">Женат/сын 2012 г.р.</td>
  </tr>
  <tr>   
      <td align="left"><strong>Образование</strong></td>
