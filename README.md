@@ -61,10 +61,10 @@
         <td><img src="metro_internetexplorer_11335.png" width="15" height="15"> В интернете</td>
         <td><a HREF="https://dmb8637.github.io/Bokov-Dmitry">Сайт</a></td>
     </tr>
-    <tr>
+    <!--tr>
         <td><img src="VK-Icon_icon-icons.com_52860.png" width="15" height="15"> В социальных сетях</td>
         <td><a HREF="https://vk.com/id32994005">ВКонтакте</a></td>
-    </tr>    
+    </tr-->    
 </table>
 
 <!--table>
