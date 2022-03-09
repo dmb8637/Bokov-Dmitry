@@ -157,7 +157,7 @@
 	<details class = "item">
 		<summary class = "ask">Программирование</summary>
 		<div class = "answer">
-			Опыт программирования на HTML, CSS, JavaScript, С#, Python, VBA. Навыки верстки сайтов;
+			Опыт программирования на HTML, CSS, JavaScript(JQuery), С#, Python, VB. Верстка сайтов. Микросервисная архитектура(Red Hat OpenShift);
   <br>Основы программирования<br><img src="img/programm_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
   <br>Основы решений алгоритмических задач<br><img src="img/algoritmtask_base.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
   <br>Проектирование процессов<br><img src="img/project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
