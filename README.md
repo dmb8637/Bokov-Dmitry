@@ -1,5 +1,5 @@
 <head>
-	<meta name="viewport" content="width=device-width">	
+	<meta name="viewport" content="width=device-width, height=device-height">	
 </head>
 <script language = "JavaScript">
 
