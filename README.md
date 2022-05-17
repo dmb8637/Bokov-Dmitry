@@ -163,6 +163,7 @@
   <br>Проектирование процессов<br><img src="img/project_process.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
   <br>Agile<br><img src="img/agile.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
   <br>Scrum-школа<br><img src="img/scrum_school.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
+  <br>Java<br><img src="img/javaI.png" title="Нажмите для увеличения" height="140" onclick="openImg(this.src)">
 		</div>
 	</details>	
 	<details class = "item">
