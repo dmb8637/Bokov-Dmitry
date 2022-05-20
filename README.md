@@ -18,7 +18,7 @@
        window.open(src,"Image");
     }
 </script>
-<body>
+<body style="overflow-x:hidden">
 	<p><a name="maininfo"></a></p>
 	<h1>БОКОВ
 	<br>Дмитрий Алексеевич</h1>
