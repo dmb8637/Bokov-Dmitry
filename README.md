@@ -90,7 +90,7 @@
 <br>
 <b><strong>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</strong></b>
 <br>
-<table overflow-x="hidden">
+<table style="overflow-x:hidden">
     <tr>
         <td align="center"><strong>Факультет</strong></td>
         <td align="center"><strong>Форма обучения</strong></td>
@@ -105,7 +105,7 @@
         <td>1995-2000</td>
         <td>Инженер-механик (с отличием)</td>
         <!--td>Машины и оборудование лесного комплекса</td-->
-        <td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent; overflow-x=:hidden;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Экономический</td>
@@ -216,7 +216,7 @@
 <p><a name="profess"></a></p>
 <br><strong>6. Профессиональная деятельность (в обратном хронологическом порядке)</strong>
 <br>
-<table>
+<table style="overflow-x:hidden">
     <tr>
         <td align="center"><strong>Организация</strong></td>
         <td align="center"><strong>Начало и окончание</strong></td>
@@ -276,7 +276,7 @@
 <p><a name="dopedu"></a></p>
 <br><strong>7. Дополнительное образование, курсы повышения квалификации, семинары, тренинги</strong>
 <br>
-<table>
+<table style="overflow-x:hidden">
 <tr>
     <td align="center"><strong>Наименование программы, курсов</strong></td>
     <td align="center"><strong>Период обучения</strong></td>
