@@ -91,40 +91,42 @@
 	<br>
 	<b><strong>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</strong></b>
 	<br>
-	<table style="overflow-x:hidden">
-	    <tr>
-		<td align="center"><strong>Факультет</strong></td>
-		<td align="center"><strong>Форма обучения</strong></td>
-		<td align="center"><strong>Год поступления и окончания</strong></td>
-		<td align="center"><strong>Квалификация</strong></td>
-		<!--td align="center"><strong>Специальность</strong></td-->
-		<td align="center"><strong>Диплом</strong></td>
-	    </tr>
-	    <tr>
-		<td>Механический</td>
-		<td>очная</td>
-		<td>1995-2000</td>
-		<td>Инженер-механик (с отличием)</td>
-		<!--td>Машины и оборудование лесного комплекса</td-->
-		<!--td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
-	    </tr>    
-	    <tr>
-		<td>Экономический</td>
-		<td>очно-заочная</td>
-		<td>1998-2001</td>
-		<td>Экономист</td>
-		<!--td>Финансы и кредит (специализация «Банковское дело»)</td-->
-		<!--td><img src="diplom2_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
-	    </tr>    
-	    <tr>
-		<td>Военная кафедра</td>
-		<td>очная</td>
-		<td>1998-2000</td>
-		<td>Лейтенант запаса (ВУС 101501)</td>
-		<!--td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td-->
-		<!--td>Военный билет</td-->
-	    </tr>    
-	</table>
+	<div>
+		<table style="overflow-x:hidden">
+		    <tr>
+			<td align="center"><strong>Факультет</strong></td>
+			<td align="center"><strong>Форма обучения</strong></td>
+			<td align="center"><strong>Год поступления и окончания</strong></td>
+			<td align="center"><strong>Квалификация</strong></td>
+			<!--td align="center"><strong>Специальность</strong></td-->
+			<td align="center"><strong>Диплом</strong></td>
+		    </tr>
+		    <tr>
+			<td>Механический</td>
+			<td>очная</td>
+			<td>1995-2000</td>
+			<td>Инженер-механик (с отличием)</td>
+			<!--td>Машины и оборудование лесного комплекса</td-->
+			<!--td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" 					onclick="openImg(this.src)"></td-->
+		    </tr>    
+		    <tr>
+			<td>Экономический</td>
+			<td>очно-заочная</td>
+			<td>1998-2001</td>
+			<td>Экономист</td>
+			<!--td>Финансы и кредит (специализация «Банковское дело»)</td-->
+			<!--td><img src="diplom2_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" 					onclick="openImg(this.src)"></td-->
+		    </tr>    
+		    <tr>
+			<td>Военная кафедра</td>
+			<td>очная</td>
+			<td>1998-2000</td>
+			<td>Лейтенант запаса (ВУС 101501)</td>
+			<!--td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td-->
+			<!--td>Военный билет</td-->
+		    </tr>    
+		</table>
+	</div>	
 
 	<p><a name="inolang"></a></p>
 	<br><strong>3. Владение иностранными языками</strong>
@@ -217,137 +219,141 @@
 	<p><a name="profess"></a></p>
 	<br><strong>6. Профессиональная деятельность (в обратном хронологическом порядке)</strong>
 	<br>
-	<table style="overflow-x:hidden">
-	    <tr>
-		<td align="center"><strong>Организация</strong></td>
-		<td align="center"><strong>Начало и окончание</strong></td>
-		<td align="center"><strong>Должность</strong></td>
-		<!--td align="center"><strong>Кратко задачи</strong></td-->
-	    </tr>    
-	    <tr>
-		<td>ПАО Сбербанк г. Москва</td>
-		<td>октябрь 2019 – май 2022</td>
-		<td>Эксперт Дивизиона "Развитие внешнеэкономического партнерства" Корпоративно-инвестиционный бизнес</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ПАО Сбербанк г. Москва</td>
-		<td>декабрь 2018 – сентябрь 2019</td>
-		<td>Ведущий специалист Центра залоговой экспертизы</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ПАО Сбербанк г. Ярославль</td>
-		<td>июль 2018 – ноябрь 2018</td>
-		<td>ассистент клиентского менеджера Управления крупного и среднего бизнеса</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ПАО Сбербанк г. Москва</td>
-		<td>май 2017 – июнь 2018</td>
-		<td>менеджер Управления планирования и управления</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ПАО Сбербанк г. Ярославль</td>
-		<td>февраль 2016 - май 2017</td>
-		<td>менеджер по качеству и технологической поддержке Управления платежных сервисов</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ОАО Сбербанк России г. Ярославль</td>
-		<td>2007 – февраль 2016</td>
-		<td>инженер, ведущий инженер Управления автоматизации</td>
-		<!--td></td-->
-	    </tr>    
-	    <tr>
-		<td>ОАО Сбербанк России г. Архангельск</td>
-		<td>2004 – 2007</td>
-		<td>инженер, старший инженер Управления автоматизации</td>
-		<!--td></td-->
-	    </tr> 
-	    <tr>
-		<td>ОАО Сбербанк России г. Архангельск</td>
-		<td>2001 – 2004</td>
-		<td>Контролер, контролер-кассир, старший контролер</td>
-		<!--td></td-->
-	    </tr> 
-	</table>    
-
+	<div>	
+		<table style="overflow-x:hidden">
+		    <tr>
+			<td align="center"><strong>Организация</strong></td>
+			<td align="center"><strong>Начало и окончание</strong></td>
+			<td align="center"><strong>Должность</strong></td>
+			<!--td align="center"><strong>Кратко задачи</strong></td-->
+		    </tr>    
+		    <tr>
+			<td>ПАО Сбербанк г. Москва</td>
+			<td>октябрь 2019 – май 2022</td>
+			<td>Эксперт Дивизиона "Развитие внешнеэкономического партнерства" Корпоративно-инвестиционный бизнес</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ПАО Сбербанк г. Москва</td>
+			<td>декабрь 2018 – сентябрь 2019</td>
+			<td>Ведущий специалист Центра залоговой экспертизы</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ПАО Сбербанк г. Ярославль</td>
+			<td>июль 2018 – ноябрь 2018</td>
+			<td>ассистент клиентского менеджера Управления крупного и среднего бизнеса</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ПАО Сбербанк г. Москва</td>
+			<td>май 2017 – июнь 2018</td>
+			<td>менеджер Управления планирования и управления</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ПАО Сбербанк г. Ярославль</td>
+			<td>февраль 2016 - май 2017</td>
+			<td>менеджер по качеству и технологической поддержке Управления платежных сервисов</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ОАО Сбербанк России г. Ярославль</td>
+			<td>2007 – февраль 2016</td>
+			<td>инженер, ведущий инженер Управления автоматизации</td>
+			<!--td></td-->
+		    </tr>    
+		    <tr>
+			<td>ОАО Сбербанк России г. Архангельск</td>
+			<td>2004 – 2007</td>
+			<td>инженер, старший инженер Управления автоматизации</td>
+			<!--td></td-->
+		    </tr> 
+		    <tr>
+			<td>ОАО Сбербанк России г. Архангельск</td>
+			<td>2001 – 2004</td>
+			<td>Контролер, контролер-кассир, старший контролер</td>
+			<!--td></td-->
+		    </tr> 
+		</table>
+	</div>	
+		
 	<p><a name="dopedu"></a></p>
 	<br><strong>7. Дополнительное образование, курсы повышения квалификации, семинары, тренинги</strong>
 	<br>
-	<table style="overflow-x:hidden">
-	<tr>
-	    <td align="center"><strong>Наименование программы, курсов</strong></td>
-	    <td align="center"><strong>Период обучения</strong></td>
-	    <td align="center"><strong>Организатор</strong></td>
-	    <td align="center"><strong>Сертификат</strong></td>
-	</tr>
-	<tr>
-	    <td>Oracle Database 10g: SQL Fundamentals I и II</td>
-	    <td>2008</td>
-	    <td>КАМИ учебный центр</td>
-	    <td>Есть</td>
-	    <!--td><img src="oracleDB_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
-	</tr>
-	<tr>    
-	    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
-	    <td>2008</td>
-	    <td>British Standards Institution</td>
-	    <td>Есть</td>
-	    <!--td><img src="iso2000_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
-	</tr>    
-	<tr>
-	    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
-	    <td>2008</td>
-	    <td>British Standards Institution</td>
-	     <td>Есть</td>
-	    <!--td><img src="ITIL_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></--td>
-	</tr>
-	<tr>
-	    <td>тренинг “Мастерская бизнес-коммуникаций”</td>
-	    <td>2018</td>
-	    <td>ПАО Сбербанк</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>тренинг “Навыки личной эффективности”</td>
-	    <td>2017</td>
-	    <td>ПАО Сбербанк</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>Семинар по технике продаж</td>
-	    <td>2018</td>
-	    <td>ПАО Сбербанк</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>Семинар “Блокчейн”</td>
-	    <td>2018</td>
-	    <td>ПАО Сбербанк</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>Семинар “BIG DATA, машинное обучение”</td>
-	    <td>2018</td>
-	    <td>ПАО Сбербанк</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>Тренинги Р.Гандапаса, тема - “Лидерство”</td>
-	    <td>2018</td>
-	    <td>самостоятельно</td>
-	    <td></td>
-	</tr>
-	<tr>
-	    <td>Создание, сопровождения сайтов</td>
-	    <td>2018</td>
-	    <td>самостоятельно</td>
-	    <td></td>
-	</tr>
-	</table>    
+	<div>	
+		<table style="overflow-x:hidden">
+		<tr>
+		    <td align="center"><strong>Наименование программы, курсов</strong></td>
+		    <td align="center"><strong>Период обучения</strong></td>
+		    <td align="center"><strong>Организатор</strong></td>
+		    <td align="center"><strong>Сертификат</strong></td>
+		</tr>
+		<tr>
+		    <td>Oracle Database 10g: SQL Fundamentals I и II</td>
+		    <td>2008</td>
+		    <td>КАМИ учебный центр</td>
+		    <td>Есть</td>
+		    <!--td><img src="oracleDB_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
+		</tr>
+		<tr>    
+		    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
+		    <td>2008</td>
+		    <td>British Standards Institution</td>
+		    <td>Есть</td>
+		    <!--td><img src="iso2000_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
+		</tr>    
+		<tr>
+		    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
+		    <td>2008</td>
+		    <td>British Standards Institution</td>
+		     <td>Есть</td>
+		    <!--td><img src="ITIL_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
+		</tr>
+		<tr>
+		    <td>тренинг “Мастерская бизнес-коммуникаций”</td>
+		    <td>2018</td>
+		    <td>ПАО Сбербанк</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>тренинг “Навыки личной эффективности”</td>
+		    <td>2017</td>
+		    <td>ПАО Сбербанк</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>Семинар по технике продаж</td>
+		    <td>2018</td>
+		    <td>ПАО Сбербанк</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>Семинар “Блокчейн”</td>
+		    <td>2018</td>
+		    <td>ПАО Сбербанк</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>Семинар “BIG DATA, машинное обучение”</td>
+		    <td>2018</td>
+		    <td>ПАО Сбербанк</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>Тренинги Р.Гандапаса, тема - “Лидерство”</td>
+		    <td>2018</td>
+		    <td>самостоятельно</td>
+		    <td></td>
+		</tr>
+		<tr>
+		    <td>Создание, сопровождения сайтов</td>
+		    <td>2018</td>
+		    <td>самостоятельно</td>
+		    <td></td>
+		</tr>
+		</table>    
+	</div>	
 
 	<p><a name="dopinfo"></a></p>
 	<br><strong>8. Дополнительная информация</strong>
