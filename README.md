@@ -6,7 +6,7 @@
     window.onload = function() {
         var d = new Date(document.lastModified);
 	var dateString = (d.getDate() < 10 ? '0' + d.getDate() : d.getDate()) + ' ' + 
-						 d.toLocaleString('ru', { month: 'long' }) + ' ' + d.getFullYear() + ' г. ' + d.getHours() + ':' + d.getMinutes();
+						 d.toLocaleString('ru', { month: 'long' }) + ' ' + d.getFullYear() + ' г. ' + d.getHours() + ':' + (d.getMinutes()<10 ? '0'+d.getMinutes() : d.getMinutes()+'');
         var item = document.querySelector(".item");
         item.innerHTML = "текущий статус соискателя: <b>В активном поиске работы</b>" + "<br>последнее обновление анкеты: <b>" + dateString + "</b>";
 	
