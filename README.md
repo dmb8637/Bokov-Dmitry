@@ -90,7 +90,7 @@
 <br>
 <b><strong>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</strong></b>
 <br>
-<table 'style=overflow-x:hidden;'>
+<table style='overflow-x:hidden;'>
     <tr>
         <td align="center"><strong>Факультет</strong></td>
         <td align="center"><strong>Форма обучения</strong></td>
