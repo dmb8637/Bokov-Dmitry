@@ -106,7 +106,7 @@
 		<td>1995-2000</td>
 		<td>Инженер-механик (с отличием)</td>
 		<!--td>Машины и оборудование лесного комплекса</td-->
-		<td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+		<!--td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
 	    </tr>    
 	    <tr>
 		<td>Экономический</td>
@@ -114,7 +114,7 @@
 		<td>1998-2001</td>
 		<td>Экономист</td>
 		<!--td>Финансы и кредит (специализация «Банковское дело»)</td-->
-		<td><img src="diplom2_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+		<!--td><img src="diplom2_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
 	    </tr>    
 	    <tr>
 		<td>Военная кафедра</td>
@@ -122,7 +122,7 @@
 		<td>1998-2000</td>
 		<td>Лейтенант запаса (ВУС 101501)</td>
 		<!--td>ВУС 101501 (Применение дорожно-строительных и мостостроительных подразделений и частей</td-->
-		<td>Военный билет</td>
+		<!--td>Военный билет</td-->
 	    </tr>    
 	</table>
 
@@ -288,19 +288,22 @@
 	    <td>Oracle Database 10g: SQL Fundamentals I и II</td>
 	    <td>2008</td>
 	    <td>КАМИ учебный центр</td>
-	    <td><img src="oracleDB_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+	    <td>Есть</td>
+	    <!--td><img src="oracleDB_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
 	</tr>
 	<tr>    
 	    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
 	    <td>2008</td>
 	    <td>British Standards Institution</td>
-	    <td><img src="iso2000_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+	    <td>Есть</td>
+	    <!--td><img src="iso2000_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td-->
 	</tr>    
 	<tr>
 	    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
 	    <td>2008</td>
 	    <td>British Standards Institution</td>
-	    <td><img src="ITIL_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+	     <td>Есть</td>
+	    <!--td><img src="ITIL_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></--td>
 	</tr>
 	<tr>
 	    <td>тренинг “Мастерская бизнес-коммуникаций”</td>
