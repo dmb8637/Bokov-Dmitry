@@ -100,7 +100,7 @@
 			<td align="center"><strong>Год поступления и окончания</strong></td>
 			<td align="center"><strong>Квалификация</strong></td>
 			<!--td align="center"><strong>Специальность</strong></td-->
-			<td align="center"><strong>Диплом</strong></td>
+			<!--td align="center"><strong>Диплом</strong></td-->
 		    </tr>
 		    <tr>
 			<td>Механический</td>
@@ -288,27 +288,27 @@
 		    <td align="center"><strong>Наименование программы, курсов</strong></td>
 		    <td align="center"><strong>Период обучения</strong></td>
 		    <td align="center"><strong>Организатор</strong></td>
-		    <td align="center"><strong>Сертификат</strong></td>
+		    <!--td align="center"><strong>Сертификат</strong></td-->
 		</tr>
 		<tr>
 		    <td>Oracle Database 10g: SQL Fundamentals I и II</td>
 		    <td>2008</td>
 		    <td>КАМИ учебный центр</td>
-		    <td>Есть</td>
+		    <!--td>Есть</td-->
 		    <!--td><img src="oracleDB_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
 		</tr>
 		<tr>    
 		    <td>ISO20000 – Implementation (стандарт процессов управления услугами ИТ)</td>
 		    <td>2008</td>
 		    <td>British Standards Institution</td>
-		    <td>Есть</td>
+		    <!--td>Есть</td-->
 		    <!--td><img src="iso2000_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
 		</tr>    
 		<tr>
 		    <td>Практика внедрения процессов планирования, согласования и совершенствования качества ИТ-сервисов на основе ITIL</td>
 		    <td>2008</td>
 		    <td>British Standards Institution</td>
-		     <td>Есть</td>
+		    <!--td>Есть</td-->
 		    <!--td><img src="ITIL_edu.jpg" title="Нажмите для увеличения" height="140" valign="top" align="left" style="border: 10px solid transparent;" 				onclick="openImg(this.src)"></td-->
 		</tr>
 		<tr>
@@ -321,37 +321,37 @@
 		    <td>тренинг “Навыки личной эффективности”</td>
 		    <td>2017</td>
 		    <td>ПАО Сбербанк</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		<tr>
 		    <td>Семинар по технике продаж</td>
 		    <td>2018</td>
 		    <td>ПАО Сбербанк</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		<tr>
 		    <td>Семинар “Блокчейн”</td>
 		    <td>2018</td>
 		    <td>ПАО Сбербанк</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		<tr>
 		    <td>Семинар “BIG DATA, машинное обучение”</td>
 		    <td>2018</td>
 		    <td>ПАО Сбербанк</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		<tr>
 		    <td>Тренинги Р.Гандапаса, тема - “Лидерство”</td>
 		    <td>2018</td>
 		    <td>самостоятельно</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		<tr>
 		    <td>Создание, сопровождения сайтов</td>
 		    <td>2018</td>
 		    <td>самостоятельно</td>
-		    <td></td>
+		    <!--td></td-->
 		</tr>
 		</table>    
 	</div>	
