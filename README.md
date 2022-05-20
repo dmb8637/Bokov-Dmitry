@@ -105,7 +105,7 @@
         <td>1995-2000</td>
         <td>Инженер-механик (с отличием)</td>
         <!--td>Машины и оборудование лесного комплекса</td-->
-        <td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent;" onclick="openImg(this.src)"></td>
+        <td><img src="diplom1_edu.jpg" title="Нажмите для увеличения" height="50" align="left" style="border: 10px solid transparent; overflow-x=:hidden;" onclick="openImg(this.src)"></td>
     </tr>    
     <tr>
         <td>Экономический</td>
