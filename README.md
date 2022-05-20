@@ -1,5 +1,6 @@
+<html>
 <head>
-	<meta name="viewport" content="width=device-width, height=device-height">	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <script language = "JavaScript">
 
@@ -361,3 +362,4 @@
 
 	<br><a href="#maininfo">Наверх</a>
 </body>
+</html>
