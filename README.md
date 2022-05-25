@@ -2,6 +2,12 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+<style>
+	@font-face { 
+	   font-family: 'Zhizn'; 
+	   src: url('Zhizn.otf'); 
+	}
+</style>
 <script language = "JavaScript">
 
     window.onload = function() {
@@ -21,8 +27,10 @@
 </script>
 <body style="overflow-x:hidden">
 	<p><a name="maininfo"></a></p>
-	<h1>БОКОВ
-	<br>Дмитрий Алексеевич</h1>
+	<span style="font-family: Zhizn;">
+		<h1>БОКОВ
+		<br>Дмитрий Алексеевич</h1>
+	</span>	
 	<p><div class="item"></div></p>
 	<p><strong>1. Основные сведения, контакты</strong></p>
 
