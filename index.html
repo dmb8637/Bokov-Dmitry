@@ -113,24 +113,23 @@
 
 	function tranwt2(){
 		y1 = y1 + 6;
-		document.getElementById('dad').style.transform = 'rotate('+y1+'deg)';
+		document.getElementById('dad').style.transform = 'rotateX('+y1+'deg)';
 		if (y1==360)
 			{
 				clearInterval(timerId2);
-				//timerId1 = location.search.substr(1)==""?setInterval(tranwt1, 25):function(){};	
 			}
 	}
 	let x1 = 0;
 	let y1 = 0;
-	let timerId2 = location.search.substr(1)==""?setInterval(tranwt2,10):function(){};
+	let timerId2 = setInterval(tranwt2,10);
 	
 </script>
 <body style="overflow-x:hidden;">
 	<p><a name="maininfo"></a></p>
-	<span id='dad' style="font-family: Zhizn; ">
-		<h1>БОКОВ
+	<p style="font-family: Zhizn; ">
+		<h1 id='dad'>БОКОВ
 		<br>Дмитрий Алексеевич</h1>
-	</span>	
+	</p>	
 	<p><div class="item"></div></p>
 	<p><strong>1. Основные сведения, контакты</strong></p>
 
