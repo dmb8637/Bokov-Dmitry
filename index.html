@@ -101,6 +101,12 @@
 		font-weight: bold;
 		transform: scale(1.1);
 	}
+
+	.menu-item {
+		height: auto;
+		max-width: 600px;
+		background: lightgrey;
+	}
 	
 </style>
 <script language = "JavaScript">
@@ -160,7 +166,7 @@
 		<br>Дмитрий Алексеевич</h1>
 	</p>	
 	<p><div class="item"></div></p>
-	<p><strong>1. Основные сведения, контакты</strong></p>
+	<p class="menu-item"><strong>1. Основные сведения, контакты</strong></p>
 
 	<table border="1" cellpadding="5" style="border-collapse: collapse; border: 1px solid black; max-width: 600px;">
 	 <tr>
@@ -254,9 +260,9 @@
 	  </li>
 	</ul-->
 
-	<p><a name="mainedu"></a></p>
-	<br><strong>2. Основное образование</strong>
 	<br>
+	<p><a name="mainedu"></a></p>
+	<p class="menu-item"><strong>2. Основное образование</strong></p>
 	<b><strong>Учебное заведение: С(А)ФУ им. М.В. Ломоносова (бывш. АГТУ), г. Архангельск</strong></b>
 	<br>
 	<div>
@@ -296,12 +302,13 @@
 		</table>
 	</div>	
 
+	<br><br>
 	<p><a name="inolang"></a></p>
-	<br><strong>3. Владение иностранными языками</strong>
+	<p class="menu-item"><strong>3. Владение иностранными языками</strong></p>
 	<br>Английский B1 Intermediate - разговорный уровень.
 
-	<p><a name="exp"></a></p>
-	<br><strong>4. Опыт работы</strong>
+	<br><br><p><a name="exp"></a></p>
+	<p class="menu-item"><strong>4. Опыт работы</strong></p>
 	<br><b>2004-2011</b>
 	 - разработка новых, реинжиниринг, рефактринг существующих отчетов и функциональностей для розничного блока банка: открытие, ведение и учет валютных и рублевых счетов и 	депозитов, банковских карт, обезличенных металлических счетов, продажа/покупка монет, ценных бумаг, драгметаллов, лотерейных билетов с использованием ООП RSL (консольные диалоговые окна, структуры БД Pervasive SQL, Oracle Database, SDK)
 	<br>
@@ -322,8 +329,8 @@
 	 - OpenShift, контейнеризация, микросервисы
 	 - верстка диалоговых форм, страниц сайтов, фреймов для клиентов (JS, JQ, HTML, CSS, media) - фриланс
 
-	<p><a name="mainexp"></a></p>
-	<br><strong>5. Основные навыки по направлениям</strong>
+	<br><br><p><a name="mainexp"></a></p>
+	<p class="menu-item"><strong>5. Основные навыки по направлениям</strong></p>
 	<br><small>нажимайте на указатель для развертывания</small>
 	<div class = "_mainexp">
 		<details class = "item" onclick="closeAll(thisindex(this));">
@@ -392,8 +399,8 @@
 		</details>
 	</div>	
 
-	<p><a name="profess"></a></p>
-	<br><strong>6. Профессиональная деятельность (в обратном хронологическом порядке)</strong>
+	<br><br><p><a name="profess"></a></p>
+	<p class="menu-item"><strong>6. Профессиональная деятельность (в обратном хронологическом порядке)</strong></p>
 	<br>
 	<div>	
 		<table border="1" cellpadding="5" style="border-collapse: collapse; border: 1px solid black;">
@@ -454,8 +461,8 @@
 		</table>
 	</div>	
 		
-	<p><a name="dopedu"></a></p>
-	<br><strong>7. Дополнительное образование, курсы повышения квалификации, семинары, тренинги</strong>
+	<br><br><p><a name="dopedu"></a></p>
+	<p class="menu-item"><strong>7. Дополнительное образование, курсы повышения квалификации, семинары, тренинги</strong></p>
 	<br>
 	<div>	
 		<table border="1" cellpadding="5" style="border-collapse: collapse; border: 1px solid black;">
@@ -531,8 +538,8 @@
 		</table>    
 	</div>	
 
-	<p><a name="dopinfo"></a></p>
-	<br><strong>8. Дополнительная информация</strong>
+	<br><br><p><a name="dopinfo"></a></p>
+	<p class="menu-item"><strong>8. Дополнительная информация</strong></p>
 	<p>Исполнителен, трудолюбив, пунктуален, аккуратен. Умею работать в команде. Клиентоориентирован. Легко обучаем, настойчив. Есть большое желание работать и развиваться. Есть рекомендательное письмо с последнего места работы.</p>
 
 	<br><button style="width:100px; text-align:center;" onclick="window.location.href = '#maininfo';">Наверх</button>
