@@ -148,7 +148,9 @@
 	}
 	let x1 = 0;
 	let y1 = 0;
-	let timerId2 = setInterval(tranwt2,10);
+	let timerId2 = function() {};
+
+	setTimeout(() => { timerId2=setInterval(tranwt2,10); }, 1000);
 	
 </script>
 <body style="overflow-x:hidden;">
